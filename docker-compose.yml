@@ -1,0 +1,14 @@
+version: '3.2'
+services:
+  web:
+    container_name: web
+    build:
+      context: ./.docker-build-context/
+      dockerfile: Dockerfile
+    ports:
+      - 2222:2222
+    volumes:
+      - type: bind
+        source: ./docs
+        target: /var/www/localhost/htdocs
+        consistency: consistent
