@@ -9414,62 +9414,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/42701969",
-  "properties": {
-    "addr:city": "Hemmoor",
-    "addr:country": "DE",
-    "addr:housenumber": "1",
-    "addr:postcode": "21745",
-    "addr:street": "Cuxhavener Straße",
-    "building": "yes",
-    "diving:airfill": "yes",
-    "diving:courses": "yes",
-    "diving:rental": "yes",
-    "diving:shop": "yes",
-    "name": "Tauchbasis Kreidesee",
-    "old_name": "divesports",
-    "source": "www.taucher.de/base/tauchbasis-kreidesee-hemmoor",
-    "sport": "scuba_diving",
-    "id": "way/42701969"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          9.1272817,
-          53.7005523
-        ],
-        [
-          9.1272597,
-          53.7005013
-        ],
-        [
-          9.1272181,
-          53.7004047
-        ],
-        [
-          9.1271984,
-          53.700359
-        ],
-        [
-          9.1273349,
-          53.7003377
-        ],
-        [
-          9.1274154,
-          53.7005308
-        ],
-        [
-          9.1272817,
-          53.7005523
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/42988894",
   "properties": {
     "addr:housenumber": "6",
@@ -37061,10 +37005,11 @@
     "addr:postcode": "3582",
     "addr:state": "Limburg",
     "addr:street": "be-MINE",
-    "building": "construction",
+    "amenity": "dive_centre",
+    "building": "yes",
     "email": "info@todi.be",
     "historic": "building",
-    "name": "Todi Indoor Duikcentrum",
+    "name": "TODI Indoor Duikcentrum",
     "phone": "+32 11 364 040",
     "sport": "scuba_diving",
     "website": "https://www.todi.be/",
@@ -40708,9 +40653,10 @@
   "type": "Feature",
   "id": "way/370524119",
   "properties": {
+    "addr:housenumber": "4",
     "addr:street": "Dr Horacio Oduber Boulevard",
     "building": "yes",
-    "name": "Aqua Indies",
+    "name": "Aqua Windies",
     "shop": "scuba_diving",
     "source": "KG Ground Survey 2015",
     "id": "way/370524119"
@@ -40720,32 +40666,44 @@
     "coordinates": [
       [
         [
-          -70.0580095,
-          12.5443931
+          -70.0578388,
+          12.5446451
         ],
         [
           -70.0581024,
           12.5442785
         ],
         [
-          -70.0579956,
-          12.5441961
+          -70.0577947,
+          12.5440427
         ],
         [
-          -70.0578695,
-          12.5443517
+          -70.0576809,
+          12.5441896
         ],
         [
-          -70.0579245,
-          12.5443942
+          -70.0576077,
+          12.5442967
         ],
         [
-          -70.0579578,
-          12.5443532
+          -70.0575143,
+          12.5444415
         ],
         [
-          -70.0580095,
-          12.5443931
+          -70.0576687,
+          12.5445357
+        ],
+        [
+          -70.057729,
+          12.544574
+        ],
+        [
+          -70.0577586,
+          12.5445913
+        ],
+        [
+          -70.0578388,
+          12.5446451
         ]
       ]
     ]
@@ -44709,6 +44667,75 @@
         [
           15.3000611,
           37.855365
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417255679",
+  "properties": {
+    "amenity": "dive_centre",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Scubadak",
+    "operator": "Pt Bintang paradiso",
+    "scuba_diving:air_filling": "yes",
+    "scuba_diving:courses": "yes",
+    "id": "way/417255679"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          100.3999501,
+          -1.2181424
+        ],
+        [
+          100.3999102,
+          -1.2180917
+        ],
+        [
+          100.3998888,
+          -1.2181091
+        ],
+        [
+          100.3998813,
+          -1.2180973
+        ],
+        [
+          100.3998605,
+          -1.2181118
+        ],
+        [
+          100.3998695,
+          -1.2181268
+        ],
+        [
+          100.3998526,
+          -1.2181366
+        ],
+        [
+          100.3998937,
+          -1.2181961
+        ],
+        [
+          100.3998697,
+          -1.2182128
+        ],
+        [
+          100.3998984,
+          -1.2182533
+        ],
+        [
+          100.3999731,
+          -1.2181941
+        ],
+        [
+          100.3999501,
+          -1.2181424
         ]
       ]
     ]
@@ -51384,7 +51411,7 @@
     "addr:state": "WA",
     "addr:street": "US 101",
     "building": "yes",
-    "building:colour": "636569",
+    "building:colour": "#636569",
     "building:height": "4.572",
     "name": "Hoodsport 'N Dive",
     "opening_hours": "Mo-Tu 10:00-16:00, Fr 10:00-18:00, Sa 09:00-17:00, Su 09:00-15:00",
@@ -54277,6 +54304,57 @@
         [
           4.1596144,
           47.3837032
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/697155853",
+  "properties": {
+    "addr:city": "Paphos",
+    "addr:street": "Poseidonos Avenue",
+    "amenity": "dive_centre",
+    "building": "yes",
+    "name": "Cydive",
+    "id": "way/697155853"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          32.4121005,
+          34.7564642
+        ],
+        [
+          32.4119945,
+          34.7563792
+        ],
+        [
+          32.4120418,
+          34.7563449
+        ],
+        [
+          32.4120725,
+          34.7563616
+        ],
+        [
+          32.4122466,
+          34.7562886
+        ],
+        [
+          32.4122868,
+          34.7563535
+        ],
+        [
+          32.4121708,
+          34.7563983
+        ],
+        [
+          32.4121005,
+          34.7564642
         ]
       ]
     ]
@@ -94913,6 +94991,102 @@
 },
 {
   "type": "Feature",
+  "id": "node/889218568",
+  "properties": {
+    "name": "Taucher E1",
+    "sport": "scuba_diving",
+    "id": "node/889218568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1294607,
+      53.6993765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/889218580",
+  "properties": {
+    "name": "Taucher E3",
+    "sport": "scuba_diving",
+    "id": "node/889218580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1329698,
+      53.6978225
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/889218615",
+  "properties": {
+    "name": "Taucher E0",
+    "sport": "scuba_diving",
+    "id": "node/889218615"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1290771,
+      53.7000643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/889218623",
+  "properties": {
+    "name": "Taucher E4B",
+    "sport": "scuba_diving",
+    "id": "node/889218623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1354114,
+      53.6958324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/889218625",
+  "properties": {
+    "name": "Taucher E2",
+    "sport": "scuba_diving",
+    "id": "node/889218625"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.131012,
+      53.6987024
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/889242160",
+  "properties": {
+    "name": "Taucher E5",
+    "sport": "scuba_diving",
+    "id": "node/889242160"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1330515,
+      53.7019941
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/891316733",
   "properties": {
     "addr:city": "Mülheim an der Ruhr",
@@ -114821,19 +114995,24 @@
   "type": "Feature",
   "id": "node/3600017693",
   "properties": {
+    "amenity": "dive_centre",
+    "contact:phone": "+49 4771 7921",
+    "contact:website": "https://www.kreideseetaucher.de/",
+    "diving:airfill": "yes",
+    "diving:courses": "yes",
+    "diving:rental": "yes",
+    "diving:shop": "yes",
     "leisure": "sports_centre",
-    "name": "Tauchbasis Kreidesee Hemmoor",
-    "source": "www.dive-links.com",
+    "name": "Tauchbasis Kreidesee",
     "sport": "scuba_diving",
-    "website": "https://www.kreideseetaucher.de/",
     "wheelchair": "limited",
     "id": "node/3600017693"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      9.1272998,
-      53.7004286
+      9.127336,
+      53.7004139
     ]
   }
 },
@@ -130663,12 +130842,12 @@
   "id": "node/4893568385",
   "properties": {
     "addr:city": "Mogán",
-    "addr:housenumber": "s/n",
     "addr:postcode": "35138",
     "addr:street": "Playa de Taurito",
     "email": "info@canary-diving.com",
     "level": "1",
     "name": "Canary Diving Adventures",
+    "nohousenumber": "yes",
     "phone": "+34 610 810 619",
     "shop": "scuba_diving",
     "website": "http://www.canary-diving.com",
@@ -133584,6 +133763,22 @@
     "coordinates": [
       150.3953764,
       -35.5053868
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5179596630",
+  "properties": {
+    "name": "Taucher E4A",
+    "sport": "scuba_diving",
+    "id": "node/5179596630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1346877,
+      53.697054
     ]
   }
 },
@@ -140721,6 +140916,7 @@
     "scuba_diving:Equipment": "yes",
     "scuba_diving:air_fill": "yes",
     "scuba_diving:education": "yes",
+    "shop": "scuba_diving",
     "sport": "scuba_diving",
     "id": "node/6047601063"
   },
@@ -146101,6 +146297,65 @@
     "coordinates": [
       33.8221995,
       27.1921929
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6797487247",
+  "properties": {
+    "shop": "sports",
+    "source": "survey",
+    "sport": "scuba_diving",
+    "id": "node/6797487247"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3352736,
+      41.0803752
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6801666155",
+  "properties": {
+    "addr:city": "Puerto Princesa",
+    "addr:housenumber": "350",
+    "addr:postcode": "5300",
+    "addr:street": "Rizal Avenue",
+    "amenity": "dive_centre",
+    "name": "Let's Dive Palawan",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "scuba_diving:Dive_Shop": "yes",
+    "scuba_diving:Scuba_Diving": "yes",
+    "id": "node/6801666155"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.7462355,
+      9.7397272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6806162537",
+  "properties": {
+    "name": "Shark Point",
+    "scuba_diving:divespot": "yes",
+    "scuba_diving:type": "sharks",
+    "sport": "scuba_diving",
+    "tourism": "attraction",
+    "id": "node/6806162537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.0439171,
+      6.0692468
     ]
   }
 }
