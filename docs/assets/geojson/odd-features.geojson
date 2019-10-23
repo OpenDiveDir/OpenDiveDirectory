@@ -963,12 +963,8 @@
           51.4748063
         ],
         [
-          10.8210206,
-          51.4751546
-        ],
-        [
-          10.8202143,
-          51.4755268
+          10.8212612,
+          51.4749706
         ],
         [
           10.8198768,
@@ -7871,7 +7867,7 @@
     "addr:state": "MA",
     "addr:street": "Solaris Road",
     "building": "commercial",
-    "building:levels": "Rear",
+    "building:levels": "2",
     "name": "R & R Marine",
     "shop": "scuba_diving",
     "website": "http://www.diverandr.com",
@@ -12282,7 +12278,7 @@
     "building:levels": "1",
     "ele": "553",
     "name": "Tauchsport Käser",
-    "opening_hours": "Tu-Fr 10:00-18:30; Sa 09:00-16:00; Mo 11:30-18:30",
+    "opening_hours": "Mo 11:30-18:30; Tu-Fr 10:00-18:30; Sa 09:00-16:00",
     "phone": "+41 31 332 45 75",
     "roof:shape": "flat",
     "shop": "scuba_diving",
@@ -13424,6 +13420,112 @@
         [
           9.1635459,
           41.3983085
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/67042604",
+  "properties": {
+    "building": "yes",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "sport": "scuba_diving",
+    "id": "way/67042604"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.4705706,
+          46.3732359
+        ],
+        [
+          6.4706059,
+          46.3731873
+        ],
+        [
+          6.470644,
+          46.3732004
+        ],
+        [
+          6.4706222,
+          46.3732306
+        ],
+        [
+          6.4706609,
+          46.3732441
+        ],
+        [
+          6.4707049,
+          46.3731814
+        ],
+        [
+          6.4706776,
+          46.3731722
+        ],
+        [
+          6.4707058,
+          46.3731313
+        ],
+        [
+          6.4707908,
+          46.3731601
+        ],
+        [
+          6.4707206,
+          46.3732631
+        ],
+        [
+          6.4707144,
+          46.3732608
+        ],
+        [
+          6.470701,
+          46.3732804
+        ],
+        [
+          6.4705706,
+          46.3732359
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/67048053",
+  "properties": {
+    "building": "yes",
+    "source": "extraction vectorielle v1 cadastre-dgi-fr source : Direction Générale des Impôts - Cadas. Mise à jour : 2010",
+    "sport": "scuba_diving",
+    "id": "way/67048053"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.5038924,
+          46.3989291
+        ],
+        [
+          6.5039575,
+          46.3989217
+        ],
+        [
+          6.50398,
+          46.3990128
+        ],
+        [
+          6.5039149,
+          46.3990206
+        ],
+        [
+          6.5038924,
+          46.3989291
         ]
       ]
     ]
@@ -15102,6 +15204,60 @@
 },
 {
   "type": "Feature",
+  "id": "way/71958476",
+  "properties": {
+    "building": "yes",
+    "name": "National Hyperbaric Centre",
+    "shop": "scuba_diving",
+    "source": "OS_OpenData_StreetView",
+    "id": "way/71958476"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -2.1438968,
+          57.155167
+        ],
+        [
+          -2.1436261,
+          57.1549355
+        ],
+        [
+          -2.1432914,
+          57.1550507
+        ],
+        [
+          -2.1432355,
+          57.1550028
+        ],
+        [
+          -2.1430354,
+          57.1550717
+        ],
+        [
+          -2.1430803,
+          57.15511
+        ],
+        [
+          -2.1426873,
+          57.1552453
+        ],
+        [
+          -2.1429691,
+          57.1554862
+        ],
+        [
+          -2.1438968,
+          57.155167
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/72368862",
   "properties": {
     "name": "Lac d'Alfeld",
@@ -16605,6 +16761,52 @@
         [
           -122.3149716,
           47.2928631
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/86296815",
+  "properties": {
+    "addr:country": "RU",
+    "addr:housenumber": "32",
+    "addr:postcode": "350000",
+    "addr:street": "улица Ленина",
+    "building": "yes",
+    "name": "Diskus",
+    "shop": "scuba_diving",
+    "website": "https://www.diskus.ru/",
+    "id": "way/86296815"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          38.9659831,
+          45.0243225
+        ],
+        [
+          38.9660086,
+          45.0243184
+        ],
+        [
+          38.9661424,
+          45.024297
+        ],
+        [
+          38.9661868,
+          45.0244356
+        ],
+        [
+          38.9660275,
+          45.0244611
+        ],
+        [
+          38.9659831,
+          45.0243225
         ]
       ]
     ]
@@ -18228,9 +18430,9 @@
   "type": "Feature",
   "id": "way/97431720",
   "properties": {
+    "addr:postcode": "LE9 4DW",
     "building": "yes",
     "name": "Underwaterworld",
-    "postcode": "LE9 4DW",
     "shop": "scuba_diving",
     "id": "way/97431720"
   },
@@ -19816,8 +20018,8 @@
           51.2810647
         ],
         [
-          14.2712089,
-          51.2805228
+          14.2711315,
+          51.2808732
         ],
         [
           14.2713083,
@@ -21319,6 +21521,50 @@
         [
           34.4051167,
           25.9144657
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/137493708",
+  "properties": {
+    "building": "yes",
+    "description": "Пляжные принадлежности",
+    "name": "Афродита",
+    "name:en": "Afrodita",
+    "shop": "scuba_diving",
+    "source": "image",
+    "id": "way/137493708"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          131.1270402,
+          42.6508839
+        ],
+        [
+          131.1270874,
+          42.6507703
+        ],
+        [
+          131.127173,
+          42.6507895
+        ],
+        [
+          131.1271259,
+          42.6509031
+        ],
+        [
+          131.1270804,
+          42.6508929
+        ],
+        [
+          131.1270402,
+          42.6508839
         ]
       ]
     ]
@@ -25414,24 +25660,24 @@
     "coordinates": [
       [
         [
-          30.563408,
-          36.7242673
+          30.5634432,
+          36.7242718
         ],
         [
-          30.5634116,
-          36.7243011
+          30.5634444,
+          36.7243057
         ],
         [
-          30.5632679,
-          36.7243106
+          30.5633003,
+          36.7243088
         ],
         [
-          30.5632644,
-          36.7242769
+          30.5632992,
+          36.724275
         ],
         [
-          30.563408,
-          36.7242673
+          30.5634432,
+          36.7242718
         ]
       ]
     ]
@@ -26464,7 +26710,7 @@
     "addr:suburb": "Elbingerode (Harz)",
     "amenity": "dive_centre",
     "building": "yes",
-    "contact:phone": "039454-43067",
+    "contact:phone": "+49 39454 43067",
     "name": "Tauchschule",
     "website": "www.tauchausbildung-harz.de",
     "id": "way/201309300"
@@ -34871,24 +35117,24 @@
     "coordinates": [
       [
         [
-          123.7698353,
-          9.5478822
+          123.769838,
+          9.54791
         ],
         [
-          123.7698045,
-          9.548005
+          123.7698072,
+          9.5480328
         ],
         [
-          123.7696338,
-          9.5479632
+          123.7696365,
+          9.547991
         ],
         [
-          123.7696647,
-          9.5478405
+          123.7696674,
+          9.5478683
         ],
         [
-          123.7698353,
-          9.5478822
+          123.769838,
+          9.54791
         ]
       ]
     ]
@@ -36730,24 +36976,24 @@
     "coordinates": [
       [
         [
-          123.7699293,
-          9.5479185
+          123.7699367,
+          9.547943
         ],
         [
-          123.7700761,
-          9.5479441
+          123.7700835,
+          9.5479686
         ],
         [
-          123.7700619,
-          9.5480238
+          123.7700693,
+          9.5480483
         ],
         [
-          123.7699151,
-          9.5479982
+          123.7699225,
+          9.5480227
         ],
         [
-          123.7699293,
-          9.5479185
+          123.7699367,
+          9.547943
         ]
       ]
     ]
@@ -39962,43 +40208,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/364242319",
-  "properties": {
-    "building": "yes",
-    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
-    "sport": "scuba_diving",
-    "id": "way/364242319"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          -61.533302,
-          16.418564
-        ],
-        [
-          -61.533314,
-          16.418654
-        ],
-        [
-          -61.533389,
-          16.418644
-        ],
-        [
-          -61.533377,
-          16.418554
-        ],
-        [
-          -61.533302,
-          16.418564
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/364799420",
   "properties": {
     "addr:city": "Gustavia",
@@ -40110,24 +40319,24 @@
     "coordinates": [
       [
         [
-          -68.2819243,
-          12.1603003
+          -68.2819122,
+          12.1602833
         ],
         [
-          -68.2818768,
-          12.1601893
+          -68.2818647,
+          12.1601723
         ],
         [
-          -68.2818059,
-          12.1602183
+          -68.2817938,
+          12.1602013
         ],
         [
-          -68.2818534,
-          12.1603293
+          -68.2818413,
+          12.1603123
         ],
         [
-          -68.2819243,
-          12.1603003
+          -68.2819122,
+          12.1602833
         ]
       ]
     ]
@@ -45007,24 +45216,24 @@
     "coordinates": [
       [
         [
-          114.6570074,
-          -8.1461491
+          114.6571241,
+          -8.146181
         ],
         [
-          114.657065,
-          -8.145924
+          114.6571817,
+          -8.1459559
         ],
         [
-          114.6568966,
-          -8.1458822
+          114.6570133,
+          -8.1459141
         ],
         [
-          114.656834,
-          -8.1460993
+          114.6569507,
+          -8.1461312
         ],
         [
-          114.6570074,
-          -8.1461491
+          114.6571241,
+          -8.146181
         ]
       ]
     ]
@@ -47308,48 +47517,6 @@
         [
           -67.0485292,
           17.97386
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/484515732",
-  "properties": {
-    "addr:city": "Zwenkau",
-    "addr:housenumber": "5",
-    "addr:postcode": "04442",
-    "addr:street": "Hafenstraße",
-    "building": "yes",
-    "name": "Tauchbasis Zwenkauer See",
-    "opening_hours": "Fr-We 09:00-19:00; Th 09:00-21:00",
-    "shop": "scuba_diving",
-    "id": "way/484515732"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          12.3359937,
-          51.2336149
-        ],
-        [
-          12.3359505,
-          51.2335887
-        ],
-        [
-          12.3360242,
-          51.2335402
-        ],
-        [
-          12.3360673,
-          51.233568
-        ],
-        [
-          12.3359937,
-          51.2336149
         ]
       ]
     ]
@@ -51320,7 +51487,7 @@
     "kayak_rental": "yes",
     "leisure": "sports_centre",
     "name": "Le Club Nautique de Percé",
-    "shop": "dive",
+    "shop": "scuba_diving",
     "sport": "scuba_diving",
     "website": "https://clubnautiqueperce.com/",
     "id": "way/598234907"
@@ -51416,7 +51583,7 @@
     "name": "Hoodsport 'N Dive",
     "opening_hours": "Mo-Tu 10:00-16:00, Fr 10:00-18:00, Sa 09:00-17:00, Su 09:00-15:00",
     "phone": "+1-360-877-6818",
-    "roof:colour": "d2d8d5",
+    "roof:colour": "#d2d8d5",
     "roof:height": "3.81",
     "roof:type": "gabled",
     "shop": "scuba_diving",
@@ -54459,6 +54626,49 @@
 },
 {
   "type": "Feature",
+  "id": "way/701539576",
+  "properties": {
+    "addr:city": "Zwenkau",
+    "addr:housenumber": "5",
+    "addr:postcode": "04442",
+    "addr:street": "Hafenstraße",
+    "amenity": "dive_centre",
+    "building": "yes",
+    "name": "Tauchbasis Zwenkauer See",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "operator": "Robert Lange",
+    "id": "way/701539576"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          12.3356812,
+          51.2338007
+        ],
+        [
+          12.3356138,
+          51.2337271
+        ],
+        [
+          12.3358048,
+          51.2336586
+        ],
+        [
+          12.3358721,
+          51.2337323
+        ],
+        [
+          12.3356812,
+          51.2338007
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/701910550",
   "properties": {
     "addr:city": "Modena",
@@ -54648,7 +54858,7 @@
     "sport": "scuba_diving",
     "tourism": "museum",
     "wheelchair": "no",
-    "wikipedia": "https://en.wikipedia.org/wiki/Canc%C3%BAn_Underwater_Museum",
+    "wikipedia": "en:Cancún Underwater Museum",
     "id": "way/708312807"
   },
   "geometry": {
@@ -55058,28 +55268,28 @@
     "coordinates": [
       [
         [
-          -71.9317675,
-          45.3991697
+          -71.9317826,
+          45.3991289
         ],
         [
-          -71.9319094,
-          45.3991651
+          -71.9319245,
+          45.3991243
         ],
         [
-          -71.9319066,
-          45.3990965
+          -71.9319217,
+          45.3990557
         ],
         [
-          -71.9319062,
-          45.3990872
+          -71.9319213,
+          45.3990464
         ],
         [
-          -71.9317577,
-          45.3990895
+          -71.9317728,
+          45.3990487
         ],
         [
-          -71.9317675,
-          45.3991697
+          -71.9317826,
+          45.3991289
         ]
       ]
     ]
@@ -55710,8 +55920,8 @@
           39.1538063
         ],
         [
-          2.9204129,
-          39.1537461
+          2.9204147,
+          39.1537453
         ],
         [
           2.920471,
@@ -55830,12 +56040,12 @@
           39.1549504
         ],
         [
-          2.9188033,
-          39.1550717
+          2.9188027,
+          39.1550712
         ],
         [
-          2.918843,
-          39.1551056
+          2.9188429,
+          39.1551045
         ],
         [
           2.9188443,
@@ -56269,6 +56479,84 @@
 },
 {
   "type": "Feature",
+  "id": "way/732029567",
+  "properties": {
+    "amenity": "dive_centre",
+    "building": "yes",
+    "name": "ダイビングショップエンドレスブルー",
+    "name:en": "Diving Shop Endless Blue",
+    "id": "way/732029567"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          129.4946636,
+          28.38214
+        ],
+        [
+          129.4947618,
+          28.3820505
+        ],
+        [
+          129.4948406,
+          28.38212
+        ],
+        [
+          129.4947767,
+          28.3821948
+        ],
+        [
+          129.4946899,
+          28.3821701
+        ],
+        [
+          129.4946636,
+          28.38214
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/732039434",
+  "properties": {
+    "amenity": "dive_centre",
+    "building": "yes",
+    "id": "way/732039434"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          129.3616573,
+          28.1262967
+        ],
+        [
+          129.3616266,
+          28.1262448
+        ],
+        [
+          129.3617669,
+          28.1261802
+        ],
+        [
+          129.3617976,
+          28.1262321
+        ],
+        [
+          129.3616573,
+          28.1262967
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/29309654",
   "properties": {
     "name": "Ave maria Rock",
@@ -56531,9 +56819,46 @@
 },
 {
   "type": "Feature",
+  "id": "way/109084652",
+  "properties": {
+    "name": "Zona de Buceo 1",
+    "scuba_diving:divespot": "yes",
+    "source": "gps",
+    "sport": "scuba_diving",
+    "id": "way/109084652"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.6219124,
+        10.2530439
+      ],
+      [
+        -75.6218884,
+        10.2525611
+      ],
+      [
+        -75.6213021,
+        10.2525258
+      ],
+      [
+        -75.6212303,
+        10.253091
+      ],
+      [
+        -75.6219124,
+        10.2530439
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/109084653",
   "properties": {
     "name": "Zona de Buceo 2",
+    "scuba_diving:divespot": "yes",
     "source": "gps",
     "sport": "scuba_diving",
     "id": "way/109084653"
@@ -59607,6 +59932,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/280173922",
+  "properties": {
+    "name": "Maison De La Mer",
+    "shop": "scuba_diving",
+    "id": "node/280173922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.3263686,
+      27.909235
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/280174023",
   "properties": {
     "amenity": "dive_centre",
@@ -61340,23 +61681,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/413555926",
-  "properties": {
-    "name": "Stockholm Divers",
-    "shop": "outdoor",
-    "sport": "scuba_diving",
-    "id": "node/413555926"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      18.0338908,
-      59.3147212
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/418343261",
   "properties": {
     "name": "Sub-Aquatic Diving Center",
@@ -62280,16 +62604,17 @@
   "type": "Feature",
   "id": "node/514558983",
   "properties": {
+    "club": "sport",
+    "contact:website": "http://dtv-ev.de",
     "description": "Gelände des Düsseldorfer Tauchverbandes mit Zugang zum Elbsee für Taucher",
-    "leisure": "sports_centre",
-    "name": "DTV",
+    "name": "Düsseldorfer Tauchverband",
     "scuba_diving:attraction:biology": "yes",
     "scuba_diving:dangers:surfers": "yes",
     "scuba_diving:entry:stair": "yes",
     "scuba_diving:maxdepth": "23m",
     "scuba_diving:type:lake": "yes",
+    "short_name": "DTV",
     "sport": "scuba_diving",
-    "website": "http://dtv-ev.de",
     "wheelchair": "yes",
     "id": "node/514558983"
   },
@@ -62556,6 +62881,22 @@
     "coordinates": [
       27.9723541,
       -25.9631786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/539925723",
+  "properties": {
+    "name": "Hideaway Dive Shop",
+    "shop": "scuba_diving",
+    "id": "node/539925723"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.2632429,
+      -17.6964681
     ]
   }
 },
@@ -71860,7 +72201,7 @@
   "type": "Feature",
   "id": "node/663869746",
   "properties": {
-    "name": "Tunnel Prvic",
+    "name": "Tunel Prvić",
     "source": "www.dive-links.com",
     "sport": "scuba_diving",
     "verified": "no, please check and del this tag",
@@ -76167,27 +76508,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/663870029",
-  "properties": {
-    "name": "Spiezberg",
-    "scuba_diving:dangers": "depth",
-    "scuba_diving:difficulty": "3",
-    "scuba_diving:entry": "boat",
-    "scuba_diving:type": "wall",
-    "source": "role@dekostop.ch",
-    "sport": "scuba_diving",
-    "id": "node/663870029"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.6835622,
-      46.6931178
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/663870034",
   "properties": {
     "name": "Hagneckkanal",
@@ -76833,8 +77153,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.3464754,
-      46.9825743
+      8.3464238,
+      46.982601
     ]
   }
 },
@@ -77563,25 +77883,6 @@
     "coordinates": [
       8.9786354,
       45.9228576
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/663870147",
-  "properties": {
-    "name": "Sovaglia-Buco della Sovaglia",
-    "source": "www.dive-links.com",
-    "sport": "scuba_diving",
-    "verified": "no, please check and del this tag",
-    "website": "http://www.dive-links.com/tauchplatz.php?id=2469",
-    "id": "node/663870147"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.00464,
-      45.93413
     ]
   }
 },
@@ -84041,10 +84342,7 @@
   "id": "node/663870681",
   "properties": {
     "name": "Sylvensteinsee / Sylvensteinspeicher",
-    "source": "www.dive-links.com",
     "sport": "scuba_diving",
-    "verified": "no, please check and del this tag",
-    "website": "http://www.dive-links.com/tauchplatz.php?id=2135",
     "id": "node/663870681"
   },
   "geometry": {
@@ -86105,8 +86403,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      12.56655,
-      51.3226666
+      12.5672263,
+      51.323203
     ]
   }
 },
@@ -88886,8 +89184,10 @@
   "id": "node/667010650",
   "properties": {
     "amenity": "dive_centre",
+    "leisure": "sports_centre",
     "name": "Note Bleue Plongée",
     "source": "survey",
+    "sport": "scuba_diving",
     "website": "http://www.pitonbungalows.com/plongee.php?",
     "id": "node/667010650"
   },
@@ -91109,8 +91409,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      139.9030533,
-      35.7848942
+      139.9030077,
+      35.7848964
     ]
   }
 },
@@ -91119,6 +91419,7 @@
   "id": "node/826319456",
   "properties": {
     "amenity": "dive_centre",
+    "name": "Dive center Aquatica",
     "sport": "scuba_diving",
     "id": "node/826319456"
   },
@@ -95315,6 +95616,24 @@
 },
 {
   "type": "Feature",
+  "id": "node/915132226",
+  "properties": {
+    "FIXME": "уточнить координаты и название",
+    "name": "Водолазные товары",
+    "shop": "scuba_diving",
+    "source": "knowledge",
+    "id": "node/915132226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.887973,
+      43.1285346
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/918161714",
   "properties": {
     "addr:city": "Heilbronn",
@@ -95628,6 +95947,25 @@
     "coordinates": [
       34.0459764,
       35.0175477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/954712305",
+  "properties": {
+    "addr:housenumber": "26",
+    "contact:phone": "+39 0923 945500",
+    "name": "Onda Blu",
+    "operator": "Vultaggio Luigi",
+    "shop": "scuba_diving",
+    "id": "node/954712305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.5950765,
+      37.6495954
     ]
   }
 },
@@ -96119,24 +96457,6 @@
     "coordinates": [
       3.3953956,
       50.5906973
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1030118514",
-  "properties": {
-    "description": "Scuba diving equipment and certification.",
-    "name": "Water World",
-    "shop": "scuba_diving",
-    "source": "survey",
-    "id": "node/1030118514"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -111.6674967,
-      40.2651807
     ]
   }
 },
@@ -97130,6 +97450,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/1322332693",
+  "properties": {
+    "name": "Buco della Sovaglia",
+    "natural": "cave_entrance",
+    "source": "www.dive-links.com",
+    "sport": "scuba_diving",
+    "verified": "no, please check and del this tag",
+    "website": "http://www.dive-links.com/tauchplatz.php?id=2469",
+    "id": "node/1322332693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.0045492,
+      45.9337975
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1329523149",
   "properties": {
     "name": "Picasso",
@@ -97601,8 +97941,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      14.705075,
-      44.791783
+      14.7061869,
+      44.7918228
     ]
   }
 },
@@ -97852,6 +98192,25 @@
     "coordinates": [
       8.7821277,
       36.9521164
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1435519078",
+  "properties": {
+    "contact:phone": "+7 495 6072034",
+    "contact:website": "http://seahunter.ru",
+    "name": "seahunter.ru",
+    "opening_hours": "Mo-Sa 11:00-21:00; Su 11:00-17:00",
+    "shop": "scuba_diving",
+    "id": "node/1435519078"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6368899,
+      55.7708454
     ]
   }
 },
@@ -98792,22 +99151,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/1574674580",
-  "properties": {
-    "shop": "scuba_diving",
-    "source": "survey",
-    "id": "node/1574674580"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      17.0937936,
-      49.4668107
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1586886452",
   "properties": {
     "amenity": "dive_centre",
@@ -98879,22 +99222,16 @@
 },
 {
   "type": "Feature",
-  "id": "node/1601531487",
+  "id": "node/1603147543",
   "properties": {
-    "addr:city": "Düsseldorf",
-    "addr:country": "DE",
-    "addr:housenumber": "35",
-    "addr:postcode": "40239",
-    "addr:street": "Brehmstraße",
-    "name": "Schnorcheln Reisen Tauchen",
-    "shop": "scuba_diving",
-    "id": "node/1601531487"
+    "entrance": "yes",
+    "id": "node/1603147543"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      6.8019824,
-      51.244049
+      38.9660086,
+      45.0243184
     ]
   }
 },
@@ -99397,7 +99734,6 @@
     "scuba_diving:education": "yes",
     "scuba_diving:equipment_service": "yes",
     "scuba_diving:organization": "PADI",
-    "shop": "scuba_diving",
     "sport": "scuba_diving",
     "website": "https://turtlebaydivers.com/",
     "id": "node/1724060418"
@@ -99405,8 +99741,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      102.7219407,
-      5.9188811
+      102.7218594,
+      5.9189262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1728282999",
+  "properties": {
+    "name": "Спрут",
+    "shop": "scuba_diving",
+    "id": "node/1728282999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.5734808,
+      52.6221939
     ]
   }
 },
@@ -100526,6 +100878,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/1810126676",
+  "properties": {
+    "shop": "scuba_diving",
+    "id": "node/1810126676"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.3887512,
+      25.9393817
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1817672135",
   "properties": {
     "attraction": "natural",
@@ -101576,6 +101943,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/1988744645",
+  "properties": {
+    "shop": "scuba_diving",
+    "id": "node/1988744645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      177.369604,
+      -16.9421289
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1989538290",
   "properties": {
     "addr:full": "愛知県名古屋市中村区牛田通2-14",
@@ -101639,6 +102021,21 @@
     "coordinates": [
       33.8508799,
       27.2001317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1994468362",
+  "properties": {
+    "shop": "scuba_diving",
+    "id": "node/1994468362"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0765801,
+      38.6377614
     ]
   }
 },
@@ -101735,7 +102132,7 @@
     "leisure": "track",
     "name": "Golden Dolphin Diving Center",
     "phone": "+20 122 3134902",
-    "shop": "dive",
+    "shop": "scuba_diving",
     "website": "http://gdolphin.com/",
     "wheelchair": "limited",
     "id": "node/2002800643"
@@ -102080,20 +102477,22 @@
   "type": "Feature",
   "id": "node/2092439797",
   "properties": {
-    "fixme": "verify exact position and depth in water (10 m? or 1,5 m? reports differ)",
+    "depth": "7",
+    "historic": "wreck",
     "name": "fighter plane wrack world war II",
     "scuba_diving:type": "wreck",
     "seamark:type": "wreck",
-    "seamark:wreck:category": "distributed_remains",
+    "seamark:wreck:category": "non-dangerous",
     "seamark:wreck:water_level": "submerged",
+    "source": "local survey and GPS mark 2019",
     "sport": "scuba_diving",
     "id": "node/2092439797"
   },
   "geometry": {
     "type": "Point",
     "coordinates": [
-      25.4225428,
-      36.828101
+      25.4221525,
+      36.8275723
     ]
   }
 },
@@ -102176,6 +102575,24 @@
     "coordinates": [
       -69.5385987,
       19.3214664
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2104611383",
+  "properties": {
+    "name": "H2 Onda",
+    "note": "Soluções para piscinas.",
+    "shop": "scuba_diving",
+    "wheelchair": "limited",
+    "id": "node/2104611383"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4182881,
+      40.1941406
     ]
   }
 },
@@ -103966,6 +104383,21 @@
     "coordinates": [
       -64.8350586,
       32.323482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2370503211",
+  "properties": {
+    "shop": "scuba_diving",
+    "id": "node/2370503211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.6020323,
+      14.067122
     ]
   }
 },
@@ -106264,6 +106696,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/2509686182",
+  "properties": {
+    "name": "Electrodive",
+    "shop": "scuba_diving",
+    "id": "node/2509686182"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1419941,
+      -34.1788736
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2511477991",
   "properties": {
     "sport": "scuba_diving",
@@ -107827,6 +108275,27 @@
 },
 {
   "type": "Feature",
+  "id": "node/2618135344",
+  "properties": {
+    "description": "магазин дайвинга",
+    "name": "Босфор",
+    "name:en": "Bosfor",
+    "name:ru": "Босфор",
+    "phone": "2-300-099",
+    "shop": "scuba_diving",
+    "source": "notes",
+    "id": "node/2618135344"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.9069541,
+      43.1326944
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2618366891",
   "properties": {
     "name": "Baernkogl",
@@ -109024,6 +109493,31 @@
 },
 {
   "type": "Feature",
+  "id": "node/2787060938",
+  "properties": {
+    "addr:city": "Zeist",
+    "addr:housenumber": "64",
+    "addr:postcode": "3701JG",
+    "addr:street": "Voorheuvel",
+    "name": "ESKO Diveworld",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "scuba_diving",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "http://www.eskodiveworld.com/",
+    "id": "node/2787060938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.241327,
+      52.0884964
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/2798661830",
   "properties": {
     "name": "Tayrona Dive Center",
@@ -109345,23 +109839,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2878993257",
-  "properties": {
-    "name": "Tauchschule Haas",
-    "shop": "sports",
-    "sport": "scuba_diving",
-    "id": "node/2878993257"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.5288714,
-      48.0685824
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2883150609",
   "properties": {
     "email": "nurkowaniechoszczno@wp.pl",
@@ -109580,6 +110057,22 @@
     "coordinates": [
       13.4374159,
       53.3365562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2917114512",
+  "properties": {
+    "name": "Три измерения - центр подводного плавания",
+    "shop": "scuba_diving",
+    "id": "node/2917114512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.257215,
+      57.9859502
     ]
   }
 },
@@ -110269,8 +110762,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      115.6596635,
-      -8.3375672
+      115.6610709,
+      -8.3376207
     ]
   }
 },
@@ -110882,22 +111375,6 @@
     "coordinates": [
       60.2037149,
       57.7470282
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3027141694",
-  "properties": {
-    "name": "Go Dive",
-    "sport": "scuba_diving",
-    "id": "node/3027141694"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      25.2731195,
-      36.7234027
     ]
   }
 },
@@ -111535,7 +112012,17 @@
   "type": "Feature",
   "id": "node/3084411013",
   "properties": {
+    "addr:city": "Vrbnik",
+    "addr:housenumber": "4",
+    "addr:postcode": "51516",
+    "addr:street": "Namori",
+    "amenity": "dive_centre",
     "name": "Dive Loft Krk",
+    "scuba_diving:air_filling": "yes",
+    "scuba_diving:courses": "yes",
+    "scuba_diving:filling": "yes",
+    "scuba_diving:nitrox_filling": "yes",
+    "scuba_diving:rental": "yes",
     "sport": "scuba_diving",
     "id": "node/3084411013"
   },
@@ -112148,8 +112635,10 @@
     "addr:street": "Port de Baillargent",
     "amenity": "dive_centre",
     "email": "divecor@wanadoo.fr",
+    "leisure": "sports_centre",
     "name": "Les Baillantes Tortues",
     "phone": "(+590) 690 37 36 17",
+    "sport": "scuba_diving",
     "website": "http://www.lesbaillantestortues.com",
     "id": "node/3191565653"
   },
@@ -112263,7 +112752,6 @@
     "addr:city": "St Louis",
     "addr:housenumber": "11125",
     "addr:postcode": "63122",
-    "addr:state": "MO",
     "addr:street": "Manchester Road",
     "name": "The Great American Diving Company",
     "shop": "scuba_diving",
@@ -112418,6 +112906,29 @@
     "coordinates": [
       35.3959308,
       55.5117101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3234835775",
+  "properties": {
+    "addr:city": "Hartlepool",
+    "addr:country": "GB",
+    "addr:housename": "Middleton House",
+    "addr:postcode": "TS24",
+    "addr:street": "Harbour Walk",
+    "name": "Hartlepool Divers Club",
+    "source": "http://www.hartlepooldivers.co.uk/contact-us.php",
+    "sport": "scuba_diving",
+    "website": "http://www.hartlepooldivers.co.uk/contact-us.php",
+    "id": "node/3234835775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.1998311,
+      54.693239
     ]
   }
 },
@@ -112595,8 +113106,11 @@
   "type": "Feature",
   "id": "node/3270398763",
   "properties": {
-    "name": "Pisces",
+    "contact:mobile": "+27 83 462 5022",
+    "name": "Pisces Diving",
+    "phone": "+27 82 651 1870",
     "sport": "scuba_diving",
+    "website": "http://www.piscesdiving.co.za",
     "id": "node/3270398763"
   },
   "geometry": {
@@ -113218,6 +113732,25 @@
     "coordinates": [
       -69.2077604,
       19.2944746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3350514550",
+  "properties": {
+    "name": "Планета дайвинга",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 12:00-17:00",
+    "phone": "+7 965 0070780",
+    "shop": "scuba_diving",
+    "website": "http://diveplanetshop.ru/",
+    "id": "node/3350514550"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.4288025,
+      60.031848
     ]
   }
 },
@@ -116234,6 +116767,44 @@
 },
 {
   "type": "Feature",
+  "id": "node/3725310810",
+  "properties": {
+    "contact:phone": "+7 495 6075010",
+    "contact:website": "http://www.diskus.ru/",
+    "name": "Diskus",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "shop": "scuba_diving",
+    "id": "node/3725310810"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.63681,
+      55.7715916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3725310811",
+  "properties": {
+    "contact:phone": "+7 495 5040848",
+    "contact:website": "http://www.diskus.ru/",
+    "name": "Diskus",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
+    "shop": "scuba_diving",
+    "id": "node/3725310811"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.6418697,
+      55.7824801
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/3732089347",
   "properties": {
     "name": "Schwarzenau Süd",
@@ -117910,13 +118481,14 @@
   "type": "Feature",
   "id": "node/3863300512",
   "properties": {
-    "FIXME": "correct position",
     "addr:city": "Bouillante",
     "addr:country": "FR",
     "addr:postcode": "97125",
     "addr:street": "Plage de Malendure",
+    "amenity": "dive_centre",
     "email": "ppkplongee@orange.fr",
-    "leisure": "pitch",
+    "fixme": "correct position",
+    "leisure": "sports_centre",
     "name": "PPK Plongée Guadeloupe",
     "opening_hours": "Mo-Su 09:00-17:30",
     "phone": "+590 988243",
@@ -117927,8 +118499,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -61.7767728,
-      16.1726472
+      -61.7758313,
+      16.1714068
     ]
   }
 },
@@ -118702,7 +119274,8 @@
   "type": "Feature",
   "id": "node/3946389219",
   "properties": {
-    "addr:city": "Flamingo",
+    "addr:city": "Cabo Velas",
+    "name": "Tienda de Buceo",
     "office": "yes",
     "shop": "scuba_diving",
     "source": "KG Ground Survey 2015",
@@ -118711,8 +119284,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -85.7824633,
-      10.4312279
+      -85.7824226,
+      10.4313818
     ]
   }
 },
@@ -122731,6 +123304,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/4161216747",
+  "properties": {
+    "amenity": "dive_centre",
+    "name": "JOY JOY",
+    "id": "node/4161216747"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.3027518,
+      26.2304858
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4161475892",
   "properties": {
     "amenity": "dive_centre",
@@ -123169,8 +123758,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      102.7218904,
-      5.9187548
+      102.7218647,
+      5.9187478
     ]
   }
 },
@@ -123340,6 +123929,22 @@
     "coordinates": [
       14.5851231,
       46.5998495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4247963701",
+  "properties": {
+    "name": "Dive Gizo",
+    "shop": "scuba_diving",
+    "id": "node/4247963701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      156.8396088,
+      -8.1015672
     ]
   }
 },
@@ -125659,8 +126264,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      123.7510554,
-      9.5479858
+      123.7510608,
+      9.5480136
     ]
   }
 },
@@ -126898,6 +127503,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/4561132764",
+  "properties": {
+    "name": "Halkeas",
+    "shop": "scuba_diving",
+    "id": "node/4561132764"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.660262,
+      37.9437887
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4563472146",
   "properties": {
     "name": "Diving Center",
@@ -126926,29 +127547,6 @@
     "coordinates": [
       -80.4277406,
       22.0385287
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/4567176402",
-  "properties": {
-    "addr:city": "Zeist",
-    "addr:housenumber": "64",
-    "addr:postcode": "3701JG",
-    "addr:street": "Voorheuvel",
-    "name": "ESKO Diveworld",
-    "payment:cash": "yes",
-    "payment:debit_cards": "yes",
-    "shop": "scuba_diving",
-    "website": "http://www.eskodiveworld.com/",
-    "id": "node/4567176402"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      5.241327,
-      52.0884964
     ]
   }
 },
@@ -127019,6 +127617,22 @@
     "coordinates": [
       126.1562717,
       9.7808991
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4572953924",
+  "properties": {
+    "amenity": "dive_centre",
+    "name": "ダイビングショップネイティブシー奄美",
+    "id": "node/4572953924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.6193153,
+      28.4286233
     ]
   }
 },
@@ -128731,8 +129345,10 @@
   "id": "node/4748806357",
   "properties": {
     "amenity": "dive_centre",
+    "leisure": "sports_centre",
     "name": "Anse Caraïbe plongée",
     "source": "survey",
+    "sport": "scuba_diving",
     "id": "node/4748806357"
   },
   "geometry": {
@@ -128799,6 +129415,21 @@
     "coordinates": [
       100.0644785,
       9.674565
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4751729133",
+  "properties": {
+    "shop": "scuba_diving",
+    "id": "node/4751729133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.0674024,
+      9.6746599
     ]
   }
 },
@@ -128970,6 +129601,8 @@
   "type": "Feature",
   "id": "node/4761691021",
   "properties": {
+    "amenity": "dive_centre",
+    "leisure": "sports_centre",
     "name": "Centre de plongée de Basse-Terre",
     "source": "survey",
     "sport": "scuba_diving",
@@ -129254,6 +129887,22 @@
     "coordinates": [
       99.979967,
       9.7952857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4787417907",
+  "properties": {
+    "name": "TermoControl",
+    "shop": "scuba_diving",
+    "id": "node/4787417907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.1530559,
+      -17.3878107
     ]
   }
 },
@@ -130144,7 +130793,7 @@
   "type": "Feature",
   "id": "node/4839711419",
   "properties": {
-    "name": "Bounty Dive Adventures",
+    "name": "Epsilon Curacao",
     "shop": "scuba_diving",
     "id": "node/4839711419"
   },
@@ -130426,6 +131075,23 @@
     "coordinates": [
       -74.2009318,
       11.2601686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4860214378",
+  "properties": {
+    "name": "Relaxed Guided Dives",
+    "shop": "scuba_diving",
+    "website": "https://www.relaxed-guided-dives.com/",
+    "id": "node/4860214378"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.0085769,
+      12.1974715
     ]
   }
 },
@@ -130856,8 +131522,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -15.7539781,
-      27.8154801
+      -15.7541451,
+      27.8156405
     ]
   }
 },
@@ -131000,6 +131666,25 @@
 },
 {
   "type": "Feature",
+  "id": "node/4915762638",
+  "properties": {
+    "addr:city": "Pietermaai",
+    "addr:housenumber": "86-88",
+    "addr:street": "Kaya Wilson Godett",
+    "amenity": "dive_centre",
+    "name": "Dive City Curaçao",
+    "id": "node/4915762638"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.9269793,
+      12.101932
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/4917703734",
   "properties": {
     "addr:city": "Kralendijk",
@@ -131052,6 +131737,22 @@
     "coordinates": [
       -68.2778962,
       12.134461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4917707322",
+  "properties": {
+    "name": "Dive Friends Bonaire Retail",
+    "shop": "scuba_diving",
+    "id": "node/4917707322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.2855399,
+      12.16813
     ]
   }
 },
@@ -132052,6 +132753,7 @@
   "type": "Feature",
   "id": "node/5010297508",
   "properties": {
+    "amenity": "dive_centre",
     "leisure": "sports_centre",
     "name": "Noa Plongée",
     "sport": "scuba_diving",
@@ -132372,12 +133074,12 @@
   "type": "Feature",
   "id": "node/5037261845",
   "properties": {
+    "amenity": "dive_centre",
     "email": "spicedivers@hotmail.com",
     "name": "Spice Divers",
     "phone": "+60 11 107 66735",
     "scuba_diving:education": "yes",
     "scuba_diving:organization": "PADI",
-    "shop": "scuba_diving",
     "website": "https://www.spicediversperhentian.com/",
     "id": "node/5037261845"
   },
@@ -132386,27 +133088,6 @@
     "coordinates": [
       102.72259,
       5.9164199
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5037261846",
-  "properties": {
-    "amenity": "dive_centre",
-    "email": "seahorsediver@yahoo.com",
-    "name": "Seahorse Divers",
-    "phone": "+60 19 984 1181",
-    "scuba_diving:education": "yes",
-    "scuba_diving:organization": "PADI",
-    "website": "http://www.seahorsediver.com/",
-    "id": "node/5037261846"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      102.7224934,
-      5.9169553
     ]
   }
 },
@@ -132638,11 +133319,11 @@
   "id": "node/5058520461",
   "properties": {
     "addr:city": "Fajã Grande",
-    "addr:postcode": "9960 - 030",
+    "addr:postcode": "9960-030",
     "addr:street": "Rua das Courelas",
     "email": "miguel@floresdivecenter.com",
     "name": "Flores Dive Center",
-    "phone": "964 794 943",
+    "phone": "+351 964794943",
     "scuba_diving": "yes",
     "shop": "scuba_diving",
     "source": "https://www.floresdivecenter.com",
@@ -133094,6 +133775,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/5100655250",
+  "properties": {
+    "name": "Alonissos Seacolours",
+    "shop": "scuba_diving",
+    "source": "survey",
+    "id": "node/5100655250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.863786,
+      39.143798
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5101400738",
   "properties": {
     "shop": "scuba_diving",
@@ -133104,6 +133802,23 @@
     "coordinates": [
       11.178744,
       54.4043521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5103431976",
+  "properties": {
+    "name": "Intro Dive",
+    "shop": "scuba_diving",
+    "website": "http://introdive.gr",
+    "id": "node/5103431976"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.8576194,
+      37.5172419
     ]
   }
 },
@@ -135889,6 +136604,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/5446986222",
+  "properties": {
+    "amenity": "dive_centre",
+    "name": "PADI diving centre",
+    "id": "node/5446986222"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.3345604,
+      5.4191855
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5453439730",
   "properties": {
     "name": "Melissa's Garden",
@@ -136778,6 +137509,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/5565911210",
+  "properties": {
+    "name": "DIVE BUDDY MALAYSIA",
+    "shop": "scuba_diving",
+    "id": "node/5565911210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.537003,
+      3.0740564
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5570384459",
   "properties": {
     "name": "Fluid Plongée",
@@ -136920,8 +137667,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      10.0189023,
-      53.5677441
+      10.018952,
+      53.5677033
     ]
   }
 },
@@ -137198,6 +137945,23 @@
 },
 {
   "type": "Feature",
+  "id": "node/5643680070",
+  "properties": {
+    "name": "Kogutu Reef",
+    "shop": "scuba_diving",
+    "website": "togeanadventures.com",
+    "id": "node/5643680070"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.9105625,
+      -0.3152454
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5647961621",
   "properties": {
     "name": "Site de plongée de Challière",
@@ -137233,6 +137997,40 @@
     "coordinates": [
       120.2000377,
       12.0016654
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5660201721",
+  "properties": {
+    "name": "Castaway Divers",
+    "shop": "scuba_diving",
+    "id": "node/5660201721"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.310236,
+      6.487052
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5660953536",
+  "properties": {
+    "name": "Ko Lipe Diving (SSI)",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "shop": "scuba_diving",
+    "website": "http://www.kolipediving.com",
+    "id": "node/5660953536"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.3058162,
+      6.4873292
     ]
   }
 },
@@ -137779,26 +138577,6 @@
     "coordinates": [
       -61.2198839,
       14.8449508
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/5717999714",
-  "properties": {
-    "amenity": "dive_centre",
-    "email": "seahorsediver@yahoo.com",
-    "name": "Seahorse Divers",
-    "phone": "+60 19 984 1181",
-    "tourism": "hostel",
-    "website": "http://www.seahorsediver.com/",
-    "id": "node/5717999714"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      102.7224537,
-      5.9169463
     ]
   }
 },
@@ -139708,6 +140486,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/5884127897",
+  "properties": {
+    "name": "Padi 5 Star Diving Center",
+    "shop": "scuba_diving",
+    "id": "node/5884127897"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.2271563,
+      52.0629675
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/5884148023",
   "properties": {
     "name": "txof! buceo",
@@ -140025,6 +140819,23 @@
     "coordinates": [
       -1.1059649,
       50.7915959
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5941198248",
+  "properties": {
+    "contact:phone": "+8 918 18 141 18",
+    "name": "Звезда",
+    "shop": "scuba_diving",
+    "id": "node/5941198248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.1110933,
+      45.0435316
     ]
   }
 },
@@ -140552,6 +141363,21 @@
     "coordinates": [
       34.3611729,
       27.9173498
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6021695067",
+  "properties": {
+    "shop": "scuba_diving",
+    "id": "node/6021695067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.8282388,
+      8.0339581
     ]
   }
 },
@@ -141545,6 +142371,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/6172807780",
+  "properties": {
+    "addr:housenumber": "30",
+    "addr:street": "Bahnhofstrasse",
+    "description": "Tauchreisen",
+    "name": "7Oceans",
+    "shop": "scuba_diving",
+    "website": "https://www.7oceans.ch/",
+    "id": "node/6172807780"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.599958,
+      47.2606864
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6173934797",
   "properties": {
     "name": "Orca Diveclub Lovina",
@@ -142255,6 +143101,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/6261787455",
+  "properties": {
+    "name": "Chasse soumarine",
+    "shop": "scuba_diving",
+    "id": "node/6261787455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.238577,
+      36.7967056
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6262571170",
   "properties": {
     "addr:city": "Port-aux-Français",
@@ -142742,6 +143604,22 @@
     "coordinates": [
       5.6100869,
       43.1741692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6329527838",
+  "properties": {
+    "name": "Zimbo Dive",
+    "shop": "scuba_diving",
+    "id": "node/6329527838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -38.9091292,
+      -13.3831358
     ]
   }
 },
@@ -143688,6 +144566,26 @@
 },
 {
   "type": "Feature",
+  "id": "node/6424349889",
+  "properties": {
+    "addr:housenumber": "85",
+    "addr:street": "Avenida Duarte Blum",
+    "name": "Almacén Stella",
+    "opening_hours": "Mo-Sa 09:00-12:30, 15:00-19:30",
+    "phone": "+57 8 5125862",
+    "shop": "scuba_diving",
+    "id": "node/6424349889"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.6939669,
+      12.5849111
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6426487468",
   "properties": {
     "name": "Sub-Sport",
@@ -144017,6 +144915,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/6449817916",
+  "properties": {
+    "name": "Brac Scuba Shack",
+    "shop": "scuba_diving",
+    "id": "node/6449817916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.8765392,
+      19.6865989
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6457176735",
   "properties": {
     "name": "Ngerechong North Coral Garden",
@@ -144333,6 +145247,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/6520789849",
+  "properties": {
+    "name": "Sapounakis Kissamos Diving Center",
+    "shop": "scuba_diving",
+    "id": "node/6520789849"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6624874,
+      35.4926519
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6521976389",
   "properties": {
     "name": "Karmakazi Tours",
@@ -144550,6 +145480,27 @@
     "coordinates": [
       -4.4727318,
       48.4272902
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6550827429",
+  "properties": {
+    "addr:housenumber": "127",
+    "addr:street": "Altenberger-Dom-Straße",
+    "name": "Seediver Tauchsport",
+    "opening_hours": "Mo-Fr 09:00-13:00, 15:00-18:30; Sa 09:00-13:30",
+    "phone": "0049 2202 2806099",
+    "shop": "scuba_diving",
+    "website": "http://www.seediver.com/",
+    "id": "node/6550827429"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.0795512,
+      51.0148087
     ]
   }
 },
@@ -145744,6 +146695,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/6702218798",
+  "properties": {
+    "name": "Dive Asia",
+    "shop": "scuba_diving",
+    "id": "node/6702218798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.2964471,
+      7.8272469
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6702850596",
   "properties": {
     "name": "Snorkelling reef",
@@ -146064,7 +147031,10 @@
   "id": "node/6757603424",
   "properties": {
     "amenity": "dive_centre",
+    "email": "info@skyredsea.com",
     "name": "SKY Diving & Snorkeling",
+    "phone": "+201009097416",
+    "website": "http://skyredsea.com/",
     "id": "node/6757603424"
   },
   "geometry": {
@@ -146094,6 +147064,22 @@
     "coordinates": [
       16.5877653,
       43.1854814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6760984551",
+  "properties": {
+    "name": "Diving Center PADI",
+    "shop": "scuba_diving",
+    "id": "node/6760984551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.892815,
+      5.7930698
     ]
   }
 },
@@ -146328,8 +147314,7 @@
     "amenity": "dive_centre",
     "name": "Let's Dive Palawan",
     "opening_hours": "Mo-Su 08:00-20:00",
-    "scuba_diving:Dive_Shop": "yes",
-    "scuba_diving:Scuba_Diving": "yes",
+    "scuba_diving": "dive_shop",
     "id": "node/6801666155"
   },
   "geometry": {
@@ -146356,6 +147341,343 @@
     "coordinates": [
       100.0439171,
       6.0692468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6810003773",
+  "properties": {
+    "name": "Azimuth Scuba",
+    "phone": "+1 779-423-1878",
+    "scuba_diving:air_filling": "yes",
+    "scuba_diving:courses": "yes",
+    "scuba_diving:filling": "yes",
+    "scuba_diving:oxygen_filling": "yes",
+    "scuba_diving:repair": "yes",
+    "shop": "scuba_diving",
+    "id": "node/6810003773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.032059,
+      42.2642395
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6810599712",
+  "properties": {
+    "addr:city": "columbus",
+    "addr:housenumber": "3865",
+    "addr:postcode": "31909",
+    "addr:state": "GA",
+    "addr:street": "Miller Road",
+    "name": "Planet Ocean Scuba Center",
+    "opening_hours": "Tu-Fr 12:00-17:00, Sa 12:00-15:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "scuba_diving:air_filling": "yes",
+    "scuba_diving:rental": "yes",
+    "scuba_diving:repair": "yes",
+    "shop": "scuba_diving",
+    "id": "node/6810599712"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.9296198,
+      32.5246802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6813455403",
+  "properties": {
+    "amenity": "dive_centre",
+    "name": "あおかわ",
+    "id": "node/6813455403"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.742883,
+      26.3318306
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6814682261",
+  "properties": {
+    "addr:housenumber": "5",
+    "addr:street": "Rue Schoelcher",
+    "amenity": "dive_centre",
+    "leisure": "sports_centre",
+    "name": "Gwadive",
+    "sport": "scuba_diving",
+    "website": "https://www.gwadiveplongee.com/",
+    "id": "node/6814682261"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.5323129,
+      16.4178341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6814682262",
+  "properties": {
+    "addr:housenumber": "25",
+    "addr:street": "Boulevard Achille René Boisneuf",
+    "amenity": "dive_centre",
+    "fixme": "vérifier la position",
+    "leisure": "sports_centre",
+    "name": "Eden plongée",
+    "sport": "scuba_diving",
+    "website": "https://www.edenplongee.fr",
+    "id": "node/6814682262"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.5333625,
+      16.4185992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6814682263",
+  "properties": {
+    "amenity": "dive_centre",
+    "fixme": "vérifier la position",
+    "name": "Antidote",
+    "id": "node/6814682263"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.5335631,
+      16.4200561
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6823930974",
+  "properties": {
+    "name": "Thassos scuba diving",
+    "shop": "scuba_diving",
+    "id": "node/6823930974"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.5982384,
+      40.6172674
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6827912661",
+  "properties": {
+    "amenity": "dive_centre",
+    "name": "D'Lagoon Divers",
+    "scuba_diving:air_filling": "yes",
+    "scuba_diving:courses": "yes",
+    "scuba_diving:rental": "yes",
+    "website": "https://dlagoonchalet.com/diving/",
+    "id": "node/6827912661"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.7226154,
+      5.9340321
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6833416451",
+  "properties": {
+    "addr:housenumber": "329",
+    "addr:street": "Welland Avenue",
+    "name": "Dan's Dive shop",
+    "shop": "scuba_diving",
+    "id": "node/6833416451"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.2265775,
+      43.1708713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6847250218",
+  "properties": {
+    "addr:city": "Rovinj",
+    "addr:postcode": "52210",
+    "addr:street": "Ulica Braće Brajković",
+    "amenity": "dive_centre",
+    "link": "http://www.rovinj-sub.hr/",
+    "name": "Rovinj Sub - Diving Center",
+    "operator": "Roberto Cafolla",
+    "scuba_diving:air_filling": "yes",
+    "scuba_diving:courses": "yes",
+    "scuba_diving:filling": "yes",
+    "scuba_diving:nitrox_filling": "yes",
+    "scuba_diving:oxygen_filling": "yes",
+    "scuba_diving:rental": "yes",
+    "id": "node/6847250218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.6409219,
+      45.091909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6847712291",
+  "properties": {
+    "amenity": "dive_centre",
+    "email": "seahorsediver@yahoo.com",
+    "name": "Seahorse Divers",
+    "phone": "+60 19 984 1181",
+    "scuba_diving:education": "yes",
+    "scuba_diving:organization": "PADI",
+    "website": "http://www.seahorsediver.com/",
+    "id": "node/6847712291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.7224388,
+      5.9169137
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6855701683",
+  "properties": {
+    "leisure": "sports_centre",
+    "name": "Pongée Nature",
+    "phone": "07.81.18.33.05",
+    "sport": "scuba_diving",
+    "website": "http://ok-plongee-nature.fr/",
+    "id": "node/6855701683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.7746594,
+      44.1972168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6862350251",
+  "properties": {
+    "name": "Harold's Dive Center",
+    "shop": "scuba_diving",
+    "id": "node/6862350251"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.307359,
+      9.3164154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6866337910",
+  "properties": {
+    "amenity": "dive_centre",
+    "league": "PADI",
+    "name": "Diver's Cove",
+    "opening_hours": "09:00-19:00",
+    "scuba_diving:courses": "yes",
+    "scuba_diving:rental": "yes",
+    "website": "http://www.divers-cove.com",
+    "id": "node/6866337910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4771982,
+      37.1048838
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6881038044",
+  "properties": {
+    "shop": "scuba_diving",
+    "id": "node/6881038044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.5772039,
+      -8.2525176
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6883807072",
+  "properties": {
+    "name": "Coral Coast Divers",
+    "shop": "scuba_diving",
+    "id": "node/6883807072"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      177.7735745,
+      -18.226368
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6893978923",
+  "properties": {
+    "addr:housenumber": "10",
+    "addr:street": "Via Degli Oleandri",
+    "contact:email": "info@archeodiving.com",
+    "contact:phone": "+39 338 382 9931",
+    "name": "Archeo Diving",
+    "shop": "sports",
+    "source": "survey",
+    "sport": "scuba_diving",
+    "website": "www.archeodiving.it",
+    "id": "node/6893978923"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5090995,
+      39.1175124
     ]
   }
 }
