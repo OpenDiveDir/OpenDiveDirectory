@@ -1,6 +1,8 @@
 # Use the minimal Alpine build.
 FROM alpine:3.10
 
+LABEL description="Open dive directory"
+
 VOLUME [ "/sys/fs/cgroup" ]
 
 # Install openrc
