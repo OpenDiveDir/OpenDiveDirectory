@@ -166670,6 +166670,36 @@
       36.7521509
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "node/8757568568",
+  "properties": {
+    "addr:city": "Lancing",
+    "addr:housenumber": "160",
+    "addr:postcode": "BN15 8AU",
+    "addr:street": "South Street",
+    "name": "Ocean View Diving",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "phone": "+44 1903 767224",
+    "scuba_diving:air_filling": "yes",
+    "scuba_diving:courses": "yes",
+    "scuba_diving:nitrox_filling": "yes",
+    "scuba_diving:oxygen_filling": "yes",
+    "scuba_diving:rental": "yes",
+    "scuba_diving:repair": "yes",
+    "scuba_diving:trimix_filling": "yes",
+    "shop": "scuba_diving",
+    "website": "https://www.oceanviewdiving.co.uk",
+    "id": "node/8757568568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.3245511,
+      50.8218687
+    ]
+  }
 }
 ]
 }
