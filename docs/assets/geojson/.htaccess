@@ -1,4 +1,0 @@
-AddCharset UTF-8 .geojson
-
-# See RFC7946.
-AddType application/geo+json .geojson

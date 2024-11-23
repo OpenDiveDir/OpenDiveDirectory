@@ -1,0 +1,201 @@
+{
+  "version": 8,
+
+  "sources": {
+      "basemap": {
+          "type": "raster",
+          "tiles": [
+              "https://a.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png"
+          ],
+          "tileSize": 256
+      },
+      "maptiler_planet": {
+          "type": "vector",
+          "tiles": [
+              "https://api.maptiler.com/tiles/v3/{z}/{x}/{y}.pbf?key=b82kdfp6x3g7f3oUoCmD"
+          ],
+          "tileSize": 512
+      },
+      "basemap_ocean": {
+          "type": "raster-dem",
+          "tiles": [
+              "https://api.maptiler.com/tiles/ocean-rgb/{z}/{x}/{y}.webp?key=b82kdfp6x3g7f3oUoCmD"
+          ],
+          "tileSize": 512
+      },
+      "odd_dive_site": {
+        "type": "geojson",
+        "data": "/geo/dive_site.geojson",
+        "cluster": false,
+        "clusterMinPoints": 5
+      },
+      "odd_dive_centre": {
+        "type": "geojson",
+        "data": "/geo/dive_centre.geojson",
+        "cluster": false,
+        "clusterMinPoints": 2
+      }
+  },
+
+  "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+
+  "layers": [
+      {
+          "id": "basemap",
+          "type": "raster",
+          "source": "basemap",
+          "minzoom": 0,
+          "maxzoom": 22
+      },
+
+      {
+          "id": "Water",
+          "type": "fill",
+          "source": "maptiler_planet",
+          "source-layer": "water",
+          "layout": {
+            "visibility": "visible"
+          },
+          "paint": {
+            "fill-color": "hsl(210,45%,45%)"
+          },
+          "filter": [
+            "all",
+            [
+              "!=",
+              "intermittent",
+              1
+            ]
+          ]
+      },
+      {
+          "id": "basemap_ocean",
+          "source": "basemap_ocean",
+          "type": "hillshade",
+          "minzoom": 0,
+          "maxzoom": 7,
+          "paint": {
+              "hillshade-accent-color": "hsla(192,100%,80%,0.5)",
+              "hillshade-exaggeration": {
+                  "stops": [
+                      [
+                          6,
+                          0.65
+                      ],
+                      [
+                          16,
+                          0.45
+                      ]
+                  ]
+              },
+              "hillshade-shadow-color": {
+                  "stops": [
+                      [
+                          1,
+                          "hsla(220,54%,41%,0.3)"
+                      ],
+                      [
+                          10,
+                          "hsla(220,63%,22%,0.7)"
+                      ]
+                  ]
+              },
+              "hillshade-highlight-color": {
+                  "stops": [
+                      [
+                          1,
+                          "hsla(0,0%,100%,0.6)"
+                      ],
+                      [
+                          10,
+                          "hsla(0,0%,100%,0.4)"
+                      ]
+                  ]
+              },
+              "hillshade-illumination-direction": 250
+          }
+      },
+
+      {
+        "id": "dive_centre-way",
+        "source": "odd_dive_centre",
+        "type": "fill",
+        "filter": ["==", ["get", "type"], "way"],
+        "paint": {
+            "fill-outline-color": "#E2A499"
+        }
+      },
+
+      {
+        "id": "dive_centre-point",
+        "source": "odd_dive_centre",
+        "type": "circle",
+        "filter": ["==", ["get", "type"], "node"],
+        "paint": {
+            "circle-opacity": 0,
+            "circle-stroke-width": 1,
+            "circle-stroke-color": "#E2A499",
+            "circle-radius": 3
+        }
+      },
+
+      {
+        "id": "dive_centre-label",
+        "source": "odd_dive_centre",
+        "type": "symbol",
+        "layout": {
+            "text-field": ["get", "name", ["get", "tags"]],
+            "text-font": ["Open Sans Regular"],
+            "text-size": 12,
+            "text-justify": "auto",
+            "text-radial-offset": 0.5,
+            "text-variable-anchor": ["right", "left",  "top", "bottom"]
+        },
+        "paint": {
+            "text-color": "#E2A499"
+        }
+      },
+
+      {
+        "id": "dive_site-way",
+        "source": "odd_dive_site",
+        "type": "fill",
+        "filter": ["==", ["get", "type"], "way"],
+        "paint": {
+            "fill-color": "#7F9FB2",
+            "fill-outline-color": "#CEEEE4"
+        }
+      },
+
+      {
+        "id": "dive_site-point",
+        "source": "odd_dive_site",
+        "type": "circle",
+        "filter": ["==", ["get", "type"], "node"],
+        "paint": {
+            "circle-opacity": 0,
+            "circle-stroke-width": 1,
+            "circle-stroke-color": "#CEEEE4",
+            "circle-radius": 3
+        }
+      },
+
+      {
+        "id": "dive_site-label",
+        "source": "odd_dive_site",
+        "type": "symbol",
+        "layout": {
+            "text-field": ["get", "name", ["get", "tags"]],
+            "text-font": ["Open Sans Regular"],
+            "text-size": 12,
+            "text-justify": "auto",
+            "text-radial-offset": 0.5,
+            "text-variable-anchor": ["left", "right", "top", "bottom"]
+        },
+        "paint": {
+            "text-color": "rgba(180, 240, 180, 1)"
+        }
+    }
+
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 517381609,
+        "tags": {
+          "amenity": "doctors",
+          "contact:mobile": "+2 069 364 0536",
+          "contact:phone": "+2 010 143 3325",
+          "healthcare": "hyperbaric_chamber",
+          "name": "Hyperbaric Medical Center"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4911979,
+          28.480038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 3250610528,
+        "tags": {
+          "amenity": "hospital",
+          "contact:phone": "+20 122 190 383",
+          "contact:website": "www.deco-international.com",
+          "healthcare": "hyperbaric_chamber",
+          "name": "Diving clinic"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3785817,
+          24.2853029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 4514248455,
+        "tags": {
+          "description:en": "Decompression chamber DECO International",
+          "description:fr": "Caisson de décompression DECO International",
+          "healthcare": "hyperbaric_chamber",
+          "hyperbaric_chamber:diameter": "2",
+          "hyperbaric_chamber:length": "4",
+          "hyperbaric_chamber:maxpressure": "5.5",
+          "hyperbaric_chamber:places": "10",
+          "hyperbaric_chamber:scuba_diving": "yes",
+          "name": "DECO International hyperbaric chamber",
+          "operator": "DECO International",
+          "phone:EG:mobile": "+20 122 744 5700;+20 122 219 0383",
+          "scuba_diving:emergency": "yes",
+          "sport": "scuba_diving"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6700896,
+          27.3958531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 4514534944,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hyperbaric_chamber",
+          "hyperbaric_chamber:phone": "+2 012 219 0383",
+          "hyperbaric_chamber:website": "www.deco-international.com",
+          "name": "Port Ghalib Hospital",
+          "phone": "+20 100 000 4402",
+          "url": "https://www.facebook.com/portghalibhospital",
+          "website": "http://www.portghalibhospital.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6165178,
+          25.5395721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 6793786876,
+        "tags": {
+          "addr:city": "Hurghada",
+          "addr:postcode": "84511",
+          "addr:street": "Airport Road",
+          "healthcare": "hyperbaric_chamber",
+          "name": "Hypermed",
+          "website": "http://www.hypermed-redsea.com/"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8221995,
+          27.1921929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 11266823587,
+        "tags": {
+          "contact:email": "sharmchamber@gmail.com",
+          "contact:facebook": "SharmChamber",
+          "contact:mobile": "+20 1222 124 292",
+          "contact:phone": "+20 693 660 922",
+          "contact:website": "sharmchamber.org",
+          "healthcare": "hyperbaric_chamber",
+          "name": "Chamber of Diving & Watersports",
+          "opening_hours": "10:30-18:00",
+          "short_name": "CDWS"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2818123,
+          27.8591466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": 11266823588,
+        "tags": {
+          "contact:mobile": "+2 01224362222",
+          "contact:phone": "+2 01222187550",
+          "contact:website": "www.baromedical-eg.com",
+          "fixme": "approximativ position (said to be \"in the back of the village\"...)",
+          "healthcare": "hyperbaric_chamber",
+          "name": "Marsa Shagra Hyberbaric Chamber"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.791981,
+          25.2423516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 92967919,
+        "tags": {
+          "amenity": "hospital",
+          "contact:email": "sharmih@yahoo.com",
+          "contact:phone": "+20 69 366 2367",
+          "contact:website": "sharmih.webs.com",
+          "healthcare": "hyperbaric_chamber",
+          "source": "Bing"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.3004143,
+              27.8821401
+            ],
+            [
+              34.3001624,
+              27.880961
+            ],
+            [
+              34.2963083,
+              27.8816044
+            ],
+            [
+              34.2965602,
+              27.8827835
+            ],
+            [
+              34.3004143,
+              27.8821401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 137670145,
+        "tags": {
+          "building": "yes",
+          "description:en": "Decompression chamber DECO International",
+          "description:fr": "Caisson de décompression DECO International",
+          "healthcare": "hyperbaric_chamber",
+          "hyperbaric_chamber:diameter": "2",
+          "hyperbaric_chamber:length": "4.75",
+          "hyperbaric_chamber:maxpressure": "6",
+          "hyperbaric_chamber:places": "6",
+          "hyperbaric_chamber:scuba_diving": "yes",
+          "name": "Diving Medicine Center",
+          "operator": "DECO International",
+          "phone:EG:mobile": "+20 122 174 1533;+20 122 219 0383",
+          "scuba_diving:emergency": "yes",
+          "sport": "scuba_diving"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.9415775,
+              26.7559208
+            ],
+            [
+              33.9416771,
+              26.7559151
+            ],
+            [
+              33.941669,
+              26.7558019
+            ],
+            [
+              33.9415694,
+              26.7558076
+            ],
+            [
+              33.9415775,
+              26.7559208
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "way",
+        "id": 705415495,
+        "tags": {
+          "building": "office",
+          "healthcare": "hyperbaric_chamber",
+          "name": "DDRC Healthcare"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.110355,
+              50.4169661
+            ],
+            [
+              -4.1098227,
+              50.4168824
+            ],
+            [
+              -4.1098666,
+              50.4167692
+            ],
+            [
+              -4.1103988,
+              50.4168529
+            ],
+            [
+              -4.110355,
+              50.4169661
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
