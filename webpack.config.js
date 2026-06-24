@@ -26,6 +26,7 @@ module.exports = {
       patterns: [
         { from: "public/geodata", to: "assets/geodata" },
         { from: "public/icons", to: "assets/icons" },
+        { from: "public/CNAME", to: "" },
       ]
     }),
   ],
