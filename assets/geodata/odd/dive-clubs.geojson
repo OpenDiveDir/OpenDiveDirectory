@@ -1,0 +1,2628 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/53715936",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "Maison de la plongée",
+        "operator": "Club Subaquatique de l'Atlantide",
+        "source": "cadastre-dgi-fr source : PaysDeBrest - 20100329",
+        "id": "way/53715936"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.7803752,
+              48.358802
+            ],
+            [
+              -4.7804713,
+              48.3587669
+            ],
+            [
+              -4.780438,
+              48.3587266
+            ],
+            [
+              -4.7803418,
+              48.3587618
+            ],
+            [
+              -4.7803752,
+              48.358802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/77980134",
+      "properties": {
+        "addr:city": "Conflans-Sainte-Honorine",
+        "addr:postcode": "78700",
+        "addr:street": "Rue Henri Dunant",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "club": "scuba_diving",
+        "leisure": "sports_centre",
+        "name": "Centre Aquatique Otonic Eden",
+        "source": "local knowledge",
+        "sport": "swimming",
+        "sport_1": "scuba_diving",
+        "website": "https://www.vert-marine.info/conflans/",
+        "id": "way/77980134"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0899184,
+              49.005575
+            ],
+            [
+              2.0895032,
+              49.0056361
+            ],
+            [
+              2.089425,
+              49.0055781
+            ],
+            [
+              2.0893795,
+              49.0055866
+            ],
+            [
+              2.0892816,
+              49.0056049
+            ],
+            [
+              2.0891763,
+              49.0054217
+            ],
+            [
+              2.0892685,
+              49.0054093
+            ],
+            [
+              2.089206,
+              49.0053202
+            ],
+            [
+              2.0891459,
+              49.0052008
+            ],
+            [
+              2.0891256,
+              49.0051389
+            ],
+            [
+              2.0898782,
+              49.0051686
+            ],
+            [
+              2.0898904,
+              49.0052093
+            ],
+            [
+              2.0903188,
+              49.0051742
+            ],
+            [
+              2.0903351,
+              49.0051892
+            ],
+            [
+              2.0903801,
+              49.0051886
+            ],
+            [
+              2.0904307,
+              49.0051924
+            ],
+            [
+              2.0904842,
+              49.0052231
+            ],
+            [
+              2.0905095,
+              49.0052126
+            ],
+            [
+              2.09053,
+              49.0052424
+            ],
+            [
+              2.0905365,
+              49.005279
+            ],
+            [
+              2.0905255,
+              49.0053074
+            ],
+            [
+              2.0905012,
+              49.0053026
+            ],
+            [
+              2.090485,
+              49.0053234
+            ],
+            [
+              2.0904486,
+              49.0053461
+            ],
+            [
+              2.0903887,
+              49.0053578
+            ],
+            [
+              2.0903586,
+              49.0053582
+            ],
+            [
+              2.0903655,
+              49.005435
+            ],
+            [
+              2.0898914,
+              49.0055295
+            ],
+            [
+              2.0899184,
+              49.005575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/107862875",
+      "properties": {
+        "access": "private",
+        "club": "scuba_diving",
+        "landuse": "recreation_ground",
+        "name": "Tauchgemeinschaft Manati e.V.",
+        "sport": "scuba_diving",
+        "website": "https://www.tg-manati.de/",
+        "id": "way/107862875"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4932723,
+              49.2737786
+            ],
+            [
+              8.4932222,
+              49.273684
+            ],
+            [
+              8.4931305,
+              49.2734168
+            ],
+            [
+              8.493094,
+              49.2733092
+            ],
+            [
+              8.4930529,
+              49.2732297
+            ],
+            [
+              8.492972,
+              49.2731105
+            ],
+            [
+              8.4928287,
+              49.2729382
+            ],
+            [
+              8.4926737,
+              49.2727736
+            ],
+            [
+              8.492596,
+              49.2727132
+            ],
+            [
+              8.4924686,
+              49.2725948
+            ],
+            [
+              8.4927663,
+              49.2725145
+            ],
+            [
+              8.4929686,
+              49.2724505
+            ],
+            [
+              8.4932066,
+              49.2727564
+            ],
+            [
+              8.4935472,
+              49.2732089
+            ],
+            [
+              8.4937404,
+              49.2734889
+            ],
+            [
+              8.4935365,
+              49.2736429
+            ],
+            [
+              8.4932723,
+              49.2737786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140619650",
+      "properties": {
+        "addr:city": "Orlando",
+        "addr:housenumber": "8422",
+        "addr:postcode": "32819",
+        "addr:state": "FL",
+        "addr:street": "International Drive",
+        "branch": "Rosen Aquatic & Fitness Center",
+        "brand": "Rosen Aquatic & Fitness Center",
+        "building": "yes",
+        "club": "scuba_diving",
+        "contact:facebook": "RosenAquatic",
+        "contact:instagram": "rosenaquatic",
+        "email": "info@rosenaquatic.com",
+        "leisure": "sports_centre",
+        "name": "Rosen Aquatic & Fitness Center",
+        "not:brand:wikidata": "Q157169",
+        "opening_hours": "Mo-Fr 05-21:00; Sa-Su 08:00-16:00",
+        "phone": "+1-407-996-3444",
+        "source:addr:housenumber": "Orange County GIS data",
+        "sport": "swimming",
+        "website": "https://www.rosenaquatic.com/",
+        "website:menu": "https://www.rosenaquatic.com/memberships/",
+        "id": "way/140619650"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.4730649,
+              28.4424701
+            ],
+            [
+              -81.4730685,
+              28.4426274
+            ],
+            [
+              -81.4729884,
+              28.4427044
+            ],
+            [
+              -81.4730022,
+              28.4433078
+            ],
+            [
+              -81.4728089,
+              28.4433112
+            ],
+            [
+              -81.4728148,
+              28.4435656
+            ],
+            [
+              -81.4730036,
+              28.4435623
+            ],
+            [
+              -81.4730044,
+              28.4435973
+            ],
+            [
+              -81.4730523,
+              28.4436403
+            ],
+            [
+              -81.4730956,
+              28.4436395
+            ],
+            [
+              -81.4730961,
+              28.4436635
+            ],
+            [
+              -81.4731697,
+              28.4436622
+            ],
+            [
+              -81.4731713,
+              28.4437326
+            ],
+            [
+              -81.4735394,
+              28.4437261
+            ],
+            [
+              -81.4735137,
+              28.4426004
+            ],
+            [
+              -81.4734715,
+              28.4426011
+            ],
+            [
+              -81.4734683,
+              28.442463
+            ],
+            [
+              -81.4730649,
+              28.4424701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/141756354",
+      "properties": {
+        "addr:street": "Terre-Plein du Naye",
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "Saint-Malo Plongée Émeraude",
+        "phone": "+33 2 99 19 90 36",
+        "sport": "scuba_diving",
+        "sport:fr": "plongée",
+        "website": "https://www.saintmaloplongee.com",
+        "id": "way/141756354"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.020662,
+              48.6410607
+            ],
+            [
+              -2.0208301,
+              48.6409939
+            ],
+            [
+              -2.020868,
+              48.6410356
+            ],
+            [
+              -2.0209753,
+              48.640989
+            ],
+            [
+              -2.0209654,
+              48.6409828
+            ],
+            [
+              -2.0209569,
+              48.6409887
+            ],
+            [
+              -2.0207569,
+              48.6407982
+            ],
+            [
+              -2.0207739,
+              48.6407899
+            ],
+            [
+              -2.0207679,
+              48.6407845
+            ],
+            [
+              -2.020751,
+              48.6407918
+            ],
+            [
+              -2.0206776,
+              48.640722
+            ],
+            [
+              -2.0204489,
+              48.6406509
+            ],
+            [
+              -2.0203781,
+              48.6406831
+            ],
+            [
+              -2.0205742,
+              48.6408698
+            ],
+            [
+              -2.020506,
+              48.6409005
+            ],
+            [
+              -2.020662,
+              48.6410607
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153071972",
+      "properties": {
+        "addr:city": "Rohrdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "6 1/2",
+        "addr:postcode": "83101",
+        "addr:street": "Ahornstraße",
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "Tauchclub Octopus",
+        "source": "DOP_LVA_BY_01",
+        "sport": "scuba_diving",
+        "id": "way/153071972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.1543172,
+              47.8358867
+            ],
+            [
+              12.1545841,
+              47.8358505
+            ],
+            [
+              12.1546219,
+              47.835976
+            ],
+            [
+              12.1543549,
+              47.8360122
+            ],
+            [
+              12.1543172,
+              47.8358867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/157295410",
+      "properties": {
+        "addr:city": "Lahr/Schwarzwald",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "77933",
+        "addr:street": "Sportplatzstraße",
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "Tauchclub Nemo e.V.",
+        "sport": "scuba_diving",
+        "id": "way/157295410"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.9209034,
+              48.3315969
+            ],
+            [
+              7.9209467,
+              48.3316322
+            ],
+            [
+              7.9209064,
+              48.331654
+            ],
+            [
+              7.9210189,
+              48.3317457
+            ],
+            [
+              7.9209319,
+              48.3317928
+            ],
+            [
+              7.9207761,
+              48.3316659
+            ],
+            [
+              7.9209034,
+              48.3315969
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/220890511",
+      "properties": {
+        "addr:city": "Oxford",
+        "addr:postcode": "OX1 4RP",
+        "addr:street": "Lake Street",
+        "building": "yes",
+        "check_date": "2025-02-25",
+        "club": "scuba_diving",
+        "name": "British Sub Aqua Club",
+        "ref:GB:uprn": "10024245028;10024243255;10024241761;200004676339",
+        "id": "way/220890511"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.2568973,
+              51.7396
+            ],
+            [
+              -1.2568208,
+              51.7395388
+            ],
+            [
+              -1.2568116,
+              51.7395314
+            ],
+            [
+              -1.2567393,
+              51.7394736
+            ],
+            [
+              -1.256499,
+              51.7395884
+            ],
+            [
+              -1.2566608,
+              51.7397155
+            ],
+            [
+              -1.2568973,
+              51.7396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/224321411",
+      "properties": {
+        "building": "hut",
+        "club": "scuba_diving",
+        "name": "Löwensee",
+        "source": "www.dive-links.com",
+        "sport": "scuba_diving",
+        "website": "http://www.grupi.de/fun-diving",
+        "id": "way/224321411"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6025794,
+              51.2452874
+            ],
+            [
+              6.6025767,
+              51.2452497
+            ],
+            [
+              6.6026378,
+              51.245248
+            ],
+            [
+              6.6026405,
+              51.2452857
+            ],
+            [
+              6.6025794,
+              51.2452874
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318772261",
+      "properties": {
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "Clubhaus Tauchclub Orca",
+        "sport": "scuba_diving",
+        "website": "https://www.tc-orca.ch/",
+        "id": "way/318772261"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.4321012,
+              46.8298126
+            ],
+            [
+              9.4321225,
+              46.8297593
+            ],
+            [
+              9.4322626,
+              46.8297856
+            ],
+            [
+              9.4322412,
+              46.8298389
+            ],
+            [
+              9.4321012,
+              46.8298126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/367666776",
+      "properties": {
+        "addr:city": "Delley-Portalban",
+        "addr:housenumber": "15",
+        "addr:postcode": "1568",
+        "addr:street": "Route du Port",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "Portasub",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "website": "https://www.portasub.ch/",
+        "id": "way/367666776"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.9564583,
+              46.9248792
+            ],
+            [
+              6.9565397,
+              46.9250363
+            ],
+            [
+              6.9563795,
+              46.925075
+            ],
+            [
+              6.9562981,
+              46.924918
+            ],
+            [
+              6.9564583,
+              46.9248792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/369021607",
+      "properties": {
+        "building": "yes",
+        "check_date": "2024-12-28",
+        "club": "scuba_diving",
+        "name": "Club subaquatique de Carry-le-Rouet",
+        "id": "way/369021607"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.1542186,
+              43.3290741
+            ],
+            [
+              5.1543299,
+              43.3291118
+            ],
+            [
+              5.154296,
+              43.3291537
+            ],
+            [
+              5.1541941,
+              43.3291213
+            ],
+            [
+              5.1542186,
+              43.3290741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392945644",
+      "properties": {
+        "building": "sports_centre",
+        "club": "scuba_diving",
+        "contact:facebook": "https://www.facebook.com/curraghsubaqua/",
+        "email": "info@CSAC.ie",
+        "name": "Curragh Sub Aqua Club",
+        "start_date": "1958",
+        "website": "https://www.csac.ie/",
+        "id": "way/392945644"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.1155982,
+              53.2876175
+            ],
+            [
+              -6.1155511,
+              53.2875524
+            ],
+            [
+              -6.1150456,
+              53.2876832
+            ],
+            [
+              -6.1150927,
+              53.2877483
+            ],
+            [
+              -6.1155982,
+              53.2876175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/414799083",
+      "properties": {
+        "addr:city": "Capbreton",
+        "addr:postcode": "40130",
+        "addr:street": "Quai Notre Dame",
+        "building": "yes",
+        "club": "scuba_diving",
+        "contact:instagram": "les_aquanautes",
+        "name": "Club de plongée les Aquanautes",
+        "phone": "+33 6 02 36 87 96",
+        "ref:FR:CRTA": "ASCAQU040FS0010T",
+        "id": "way/414799083"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4384114,
+              43.6551981
+            ],
+            [
+              -1.4383242,
+              43.6551612
+            ],
+            [
+              -1.4382851,
+              43.6552097
+            ],
+            [
+              -1.4383722,
+              43.6552466
+            ],
+            [
+              -1.4384114,
+              43.6551981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/612932942",
+      "properties": {
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "BioDyk",
+        "website": "https://www.biodyk.dk/om-biodyk/kontak/",
+        "id": "way/612932942"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2463835,
+              56.1910482
+            ],
+            [
+              10.2463137,
+              56.1910083
+            ],
+            [
+              10.2462882,
+              56.1910221
+            ],
+            [
+              10.2461682,
+              56.1909536
+            ],
+            [
+              10.246198,
+              56.1909374
+            ],
+            [
+              10.246117,
+              56.1908912
+            ],
+            [
+              10.2462306,
+              56.1908294
+            ],
+            [
+              10.2463235,
+              56.1908824
+            ],
+            [
+              10.2462947,
+              56.190898
+            ],
+            [
+              10.2463983,
+              56.1909571
+            ],
+            [
+              10.2464054,
+              56.1909531
+            ],
+            [
+              10.2464799,
+              56.1909957
+            ],
+            [
+              10.2463835,
+              56.1910482
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/626994092",
+      "properties": {
+        "addr:city": "Chevroux",
+        "addr:housenumber": "12",
+        "addr:postcode": "1545",
+        "addr:street": "Avenue du Port",
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "Club de plongée Chevroux & Payerne",
+        "sport": "scuba_diving",
+        "id": "way/626994092"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.900678,
+              46.8954068
+            ],
+            [
+              6.9007705,
+              46.8954403
+            ],
+            [
+              6.9007104,
+              46.8955176
+            ],
+            [
+              6.9006179,
+              46.895484
+            ],
+            [
+              6.900678,
+              46.8954068
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/856859415",
+      "properties": {
+        "addr:city": "Bushey",
+        "addr:postcode": "WD23 2ES",
+        "addr:street": "Bushey Hall Drive",
+        "building": "yes",
+        "building:levels": "1",
+        "club": "scuba_diving",
+        "name": "Bushey & Borehamwood Sub-Aqua Club",
+        "website": "http://www.busheydivers.org/",
+        "id": "way/856859415"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3719605,
+              51.6581641
+            ],
+            [
+              -0.3721003,
+              51.6582034
+            ],
+            [
+              -0.3722554,
+              51.6579914
+            ],
+            [
+              -0.3721157,
+              51.6579521
+            ],
+            [
+              -0.3719605,
+              51.6581641
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/990579218",
+      "properties": {
+        "addr:city": "Freiburg im Breisgau",
+        "addr:housenumber": "43",
+        "addr:postcode": "79110",
+        "addr:street": "Schlettstadter Straße",
+        "check_date": "2026-03-29",
+        "club": "scuba_diving",
+        "contact:phone": "+49 761 800060",
+        "leisure": "sports_centre",
+        "name": "1. Tauchclub Freiburg e.V.",
+        "sport": "scuba_diving",
+        "website": "http://www.tauchclub-freiburg.de/",
+        "id": "way/990579218"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.8225464,
+              48.0097342
+            ],
+            [
+              7.8225747,
+              48.009683
+            ],
+            [
+              7.8226444,
+              48.0094951
+            ],
+            [
+              7.8225872,
+              48.0094021
+            ],
+            [
+              7.8226232,
+              48.0093073
+            ],
+            [
+              7.822705,
+              48.0092996
+            ],
+            [
+              7.8228063,
+              48.0093151
+            ],
+            [
+              7.8228731,
+              48.0093331
+            ],
+            [
+              7.8230244,
+              48.0093887
+            ],
+            [
+              7.8231656,
+              48.0094634
+            ],
+            [
+              7.8231858,
+              48.009474
+            ],
+            [
+              7.8229209,
+              48.0096057
+            ],
+            [
+              7.8228512,
+              48.0096403
+            ],
+            [
+              7.8227235,
+              48.0096932
+            ],
+            [
+              7.8225983,
+              48.0097438
+            ],
+            [
+              7.8225464,
+              48.0097342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1136340628",
+      "properties": {
+        "addr:city": "Arnold",
+        "addr:country": "US",
+        "addr:housenumber": "1519",
+        "addr:postcode": "63010",
+        "addr:state": "MO",
+        "addr:street": "Big Bill Road",
+        "building": "yes",
+        "club": "scuba_diving",
+        "contact:phone": "+13143260419",
+        "name": "LifeWaters World Headquarters",
+        "operator": "Life Waters",
+        "operator:ein": "46-5104322",
+        "sport": "scuba_diving",
+        "website": "https://www.lifewaters.org",
+        "id": "way/1136340628"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.3834924,
+              38.4408362
+            ],
+            [
+              -90.3833113,
+              38.4409476
+            ],
+            [
+              -90.3834017,
+              38.4410378
+            ],
+            [
+              -90.383609,
+              38.4409102
+            ],
+            [
+              -90.3835814,
+              38.4408827
+            ],
+            [
+              -90.3835552,
+              38.4408988
+            ],
+            [
+              -90.3834924,
+              38.4408362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1274258486",
+      "properties": {
+        "addr:postcode": "GU1 1LW",
+        "building": "yes",
+        "club": "scuba_diving",
+        "name": "The Guildford Waterside Centre",
+        "operator": "Guildford Sub Aqua Club",
+        "id": "way/1274258486"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.5746208,
+              51.2512344
+            ],
+            [
+              -0.5746743,
+              51.2511806
+            ],
+            [
+              -0.5747878,
+              51.2510663
+            ],
+            [
+              -0.5745667,
+              51.2509803
+            ],
+            [
+              -0.5743997,
+              51.2511484
+            ],
+            [
+              -0.5745245,
+              51.251197
+            ],
+            [
+              -0.5746208,
+              51.2512344
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1474787529",
+      "properties": {
+        "building": "yes",
+        "club": "scuba_diving",
+        "sport": "scuba_diving",
+        "id": "way/1474787529"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.5682332,
+              48.3540787
+            ],
+            [
+              -4.5681924,
+              48.3540452
+            ],
+            [
+              -4.5681425,
+              48.354072
+            ],
+            [
+              -4.5681832,
+              48.3541055
+            ],
+            [
+              -4.5682332,
+              48.3540787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1483477621",
+      "properties": {
+        "club": "scuba_diving",
+        "sport": "scuba_diving",
+        "id": "way/1483477621"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3877101,
+            50.1836665
+          ],
+          [
+            4.3875882,
+            50.1836428
+          ],
+          [
+            4.3876178,
+            50.1835614
+          ],
+          [
+            4.3875193,
+            50.1832954
+          ],
+          [
+            4.3874915,
+            50.1832708
+          ],
+          [
+            4.3874089,
+            50.1832779
+          ],
+          [
+            4.3873723,
+            50.1832526
+          ],
+          [
+            4.3873743,
+            50.1832286
+          ],
+          [
+            4.3873869,
+            50.1831821
+          ],
+          [
+            4.3874571,
+            50.1831581
+          ],
+          [
+            4.3875103,
+            50.1831293
+          ],
+          [
+            4.3875897,
+            50.1831209
+          ],
+          [
+            4.3875988,
+            50.1830633
+          ],
+          [
+            4.3876474,
+            50.1831072
+          ],
+          [
+            4.3877296,
+            50.1831096
+          ],
+          [
+            4.3879055,
+            50.182927
+          ],
+          [
+            4.388058,
+            50.1828259
+          ],
+          [
+            4.3883146,
+            50.1828403
+          ],
+          [
+            4.3885372,
+            50.182866
+          ],
+          [
+            4.3887075,
+            50.1828892
+          ],
+          [
+            4.3887846,
+            50.1829107
+          ],
+          [
+            4.3888617,
+            50.1829352
+          ],
+          [
+            4.3889281,
+            50.1829674
+          ],
+          [
+            4.3889905,
+            50.183006
+          ],
+          [
+            4.389079,
+            50.1830696
+          ],
+          [
+            4.3892527,
+            50.1831956
+          ],
+          [
+            4.3895933,
+            50.1834036
+          ],
+          [
+            4.3896483,
+            50.183444
+          ],
+          [
+            4.389659,
+            50.1834826
+          ],
+          [
+            4.3896644,
+            50.1836217
+          ],
+          [
+            4.3896805,
+            50.1836535
+          ],
+          [
+            4.3896548,
+            50.1836728
+          ],
+          [
+            4.3893646,
+            50.1839197
+          ],
+          [
+            4.3892292,
+            50.1840206
+          ],
+          [
+            4.3889168,
+            50.1839813
+          ],
+          [
+            4.3885242,
+            50.183982
+          ],
+          [
+            4.388481,
+            50.1838012
+          ],
+          [
+            4.3884779,
+            50.1837884
+          ],
+          [
+            4.3884367,
+            50.1837312
+          ],
+          [
+            4.3883631,
+            50.1837105
+          ],
+          [
+            4.3882442,
+            50.183708
+          ],
+          [
+            4.3881523,
+            50.1837145
+          ],
+          [
+            4.388049,
+            50.1837317
+          ],
+          [
+            4.3879914,
+            50.1837634
+          ],
+          [
+            4.3879679,
+            50.1838012
+          ],
+          [
+            4.3879066,
+            50.1837875
+          ],
+          [
+            4.3880302,
+            50.1835577
+          ],
+          [
+            4.3880437,
+            50.1835217
+          ],
+          [
+            4.3879846,
+            50.1835028
+          ],
+          [
+            4.3879612,
+            50.1834843
+          ],
+          [
+            4.3878834,
+            50.1834706
+          ],
+          [
+            4.3878566,
+            50.1835238
+          ],
+          [
+            4.387783,
+            50.1835087
+          ],
+          [
+            4.3877101,
+            50.1836665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/278209602",
+      "properties": {
+        "addr:city": "Siegen",
+        "addr:country": "DE",
+        "addr:housenumber": "105",
+        "addr:postcode": "57074",
+        "addr:street": "Marienborner Straße",
+        "club": "scuba_diving",
+        "email": "kontakt@tc-octopus.de",
+        "name": "Tauchclub Octopus Siegen",
+        "office": "association",
+        "official_name": "Tauchclub Octopus Siegen e.V.",
+        "short_name": "TCO",
+        "website": "https://www.tc-octopus.de",
+        "wheelchair": "no",
+        "id": "node/278209602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0345545,
+          50.8744648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/296779888",
+      "properties": {
+        "addr:city": "Liberec",
+        "addr:conscriptionnumber": "140",
+        "addr:country": "CZ",
+        "addr:housenumber": "140/2",
+        "addr:postcode": "46001",
+        "addr:street": "Hrdinů",
+        "addr:streetnumber": "2",
+        "amenity": "dive_centre",
+        "club": "scuba_diving",
+        "name": "Nautico",
+        "opening_hours": "Mo-Fr 10:00-17:30",
+        "operator": "Nautico s.r.o.",
+        "ref:ruian:addr": "23699612",
+        "shop": "scuba_diving",
+        "source:addr": "cuzk:ruian",
+        "id": "node/296779888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0502927,
+          50.7824352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311335933",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Tauchstation",
+        "operator": "TC Aqua-Aero e.V",
+        "sport": "scuba_diving",
+        "id": "node/311335933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8236286,
+          52.0567383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/370443237",
+      "properties": {
+        "club": "scuba_diving",
+        "contact:fax": "+49 6048 98172",
+        "contact:phone": "+49 6048 98 17 20",
+        "contact:website": "http://www.tauchschule-buedingen.com/index.php?id=52",
+        "name": "Tauchschule Büdingen",
+        "sport": "scuba_diving",
+        "id": "node/370443237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0231028,
+          50.2545445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/514558983",
+      "properties": {
+        "club": "scuba_diving",
+        "contact:website": "http://dtv-ev.de",
+        "description": "Gelände des Düsseldorfer Tauchverbandes mit Zugang zum Elbsee für Taucher",
+        "name": "Düsseldorfer Tauchverband",
+        "scuba_diving:attraction:biology": "yes",
+        "scuba_diving:dangers:surfers": "yes",
+        "scuba_diving:entry:stair": "yes",
+        "scuba_diving:maxdepth": "23m",
+        "scuba_diving:type:lake": "yes",
+        "short_name": "DTV",
+        "wheelchair": "yes",
+        "id": "node/514558983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.909428,
+          51.1821324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663870622",
+      "properties": {
+        "addr:housenumber": "15",
+        "addr:street": "Henschelstraße",
+        "club": "scuba_diving",
+        "name": "Banter See - UWC Heim",
+        "scuba_diving:divespot": "yes",
+        "source": "www.google.de",
+        "sport": "scuba_diving",
+        "website": "https://www.uwc-manta.de/",
+        "id": "node/663870622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0944529,
+          53.5086083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/663870971",
+      "properties": {
+        "club": "scuba_diving",
+        "contact:website": "https://tcbs.de/",
+        "name": "Tauch-Club Brieselang/Spandau '92 e.V.",
+        "sport": "scuba_diving",
+        "id": "node/663870971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0174266,
+          52.5831566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/827199403",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Tauchbasis Lorenc",
+        "sport": "scuba_diving",
+        "id": "node/827199403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3880653,
+          47.8680361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/866430588",
+      "properties": {
+        "club": "scuba_diving",
+        "divespot": "rock",
+        "name": "Steina",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:filling": "yes",
+        "sport": "scuba_diving",
+        "id": "node/866430588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0601492,
+          51.2049764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1118701936",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "TSC Seeteufel e. V.",
+        "office": "association",
+        "phone": "+49 211 213905",
+        "website": "https://www.tsc-seeteufel.de",
+        "id": "node/1118701936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8645828,
+          51.1919613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1549501660",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Tauchschule",
+        "seamark:type": "restricted_area",
+        "sport": "scuba_diving",
+        "id": "node/1549501660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8150692,
+          54.0930613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1874472286",
+      "properties": {
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "13507",
+        "addr:street": "Eisenhammerweg",
+        "addr:suburb": "Tegel",
+        "amenity": "community_centre",
+        "club": "scuba_diving",
+        "community_centre": "club_home",
+        "contact:email": "info@ntvev.de",
+        "contact:website": "https://www.ntvev.de/",
+        "name": "Nordberliner Tauchverein",
+        "operator": "Nordberliner Tauchverein e.V.",
+        "sport": "scuba_diving",
+        "id": "node/1874472286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2771995,
+          52.5840475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2392570968",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Tauchsport SAS",
+        "sport": "scuba_diving",
+        "website": "http://www.tauchsport-sas.de/",
+        "id": "node/2392570968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5848618,
+          49.3960976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2517397365",
+      "properties": {
+        "club": "scuba_diving",
+        "contact:facebook": "https://www.facebook.com/Sportkafarafelag.Islands",
+        "email": "stjorn@kofun.is",
+        "name": "Sportkafarafélag Íslands",
+        "id": "node/2517397365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9318303,
+          64.1219324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2937587815",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Les Smoggler",
+        "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+        "id": "node/2937587815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10832,
+          51.00357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3694121869",
+      "properties": {
+        "addr:housenumber": "18",
+        "addr:street": "Wuhrstraße",
+        "club": "scuba_diving",
+        "name": "Vereinsheim TSC Bad Buchau e.V.",
+        "operator": "TSC Bad Buchau e.V.",
+        "sport": "scuba_diving",
+        "website": "http://www.tauchclub-bad-buchau.de/index.php",
+        "id": "node/3694121869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6065185,
+          48.062652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3836365075",
+      "properties": {
+        "check_date": "2025-03-31",
+        "club": "scuba_diving",
+        "name": "PADI EMEA",
+        "id": "node/3836365075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.630575,
+          51.4225348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4221665915",
+      "properties": {
+        "club": "scuba_diving",
+        "email": "info@divingsicilia.it",
+        "name": "Ambiente Liquido",
+        "phone": "+39 328 2449863",
+        "id": "node/4221665915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8998953,
+          38.1808581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4722869789",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "BCOS Duikclub",
+        "website": "https://bcos.be/index.html",
+        "id": "node/4722869789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.182251,
+          51.1898923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5074133015",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Gruppo Sub Verzasca",
+        "id": "node/5074133015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8379572,
+          46.2594745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5326134234",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Duikschool Duikernikkers",
+        "id": "node/5326134234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9616047,
+          51.230287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5346862469",
+      "properties": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76131",
+        "addr:street": "Haid-und-Neu-Straße",
+        "amenity": "dive_centre",
+        "club": "scuba_diving",
+        "description": "Tauchverein Tauchclub KIT Sportgruppe Abteilung Tauchen",
+        "level": "-1",
+        "name": "KIT Sportgruppe Tauchen",
+        "scuba_diving:education": "yes",
+        "website": "http://fzktauchen.de",
+        "id": "node/5346862469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.423543,
+          49.011731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5545053877",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Hajen",
+        "id": "node/5545053877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.84708,
+          55.9660441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5777405496",
+      "properties": {
+        "addr:city": "Neuss",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "41468",
+        "addr:street": "Am Blankenwasser",
+        "amenity": "dive_centre",
+        "club": "scuba_diving",
+        "contact:website": "https://pulchra-amphora.de/",
+        "name": "Clubhaus Tauchverein Pulchra Amphora",
+        "operator": "Pulchra Amphora e.V. Neuss",
+        "id": "node/5777405496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7547149,
+          51.1602543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5961244689",
+      "properties": {
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:country": "AR",
+        "addr:housenumber": "950",
+        "addr:street": "Roma",
+        "amenity": "dive_centre",
+        "club": "scuba_diving",
+        "name": "ABucear - Centro de Buceo",
+        "name:en": "ABucear - Scuba Diving Center",
+        "opening_hours": "Sa 09:00-18:00",
+        "sport": "scuba_diving",
+        "id": "node/5961244689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5228732,
+          -34.6260797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6007151134",
+      "properties": {
+        "addr:city": "Espoo",
+        "addr:housenumber": "20",
+        "addr:postcode": "02150",
+        "addr:street": "Otakaari",
+        "club": "scuba_diving",
+        "description": "Meeting place for PSK KUPLA diving group.",
+        "name": "Kammio - PSK KUPLA",
+        "operator": "PSK KUPLA",
+        "website": "https://kupla.org/en/in-english/",
+        "id": "node/6007151134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8351931,
+          60.1869357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6048963466",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Mediterranean Dive Club",
+        "shop": "scuba_diving",
+        "sport": "scuba_diving",
+        "id": "node/6048963466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4283816,
+          36.417268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6491298499",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Tauchgruppe Biber",
+        "sport": "scuba_diving",
+        "website": "https://www.tauchgruppe-biber.ch/",
+        "id": "node/6491298499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7046376,
+          47.2115023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6573959291",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Sporttauchergruppe Ulm/Neu-Ulm e. V.",
+        "sport": "scuba_diving",
+        "website": "https://www.sporttauchergruppe.de/",
+        "id": "node/6573959291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9782154,
+          48.3970576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7453293855",
+      "properties": {
+        "addr:housenumber": "17",
+        "addr:street": "Werkstraße",
+        "alt_name": "Tauchclub Plattling",
+        "club": "scuba_diving",
+        "contact:website": "https://www.tauchclub-plattling.de/",
+        "name": "1. Niederbayerischer Tauchsportclub Plattling e.V.",
+        "short_name": "Tauchsportclub Plattling",
+        "sport": "scuba_diving",
+        "id": "node/7453293855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8639345,
+          48.7814183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7731283319",
+      "properties": {
+        "club": "scuba_diving",
+        "description": "Tauchverein Meersburg",
+        "name": "Krebsgarten Meersburg",
+        "sport": "scuba_diving",
+        "id": "node/7731283319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2808529,
+          47.6877852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7834948639",
+      "properties": {
+        "club": "scuba_diving",
+        "contact:website": "https://www.vatt69.se/",
+        "name": "Vått 69",
+        "scuba_diving:air_filling": "yes",
+        "id": "node/7834948639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4159429,
+          58.2803547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7834989695",
+      "properties": {
+        "club": "scuba_diving",
+        "contact:website": "https://www.lindomesdk.nu/",
+        "name": "Lindome Sportdykarklubb",
+        "scuba_diving:air_filling": "yes",
+        "short_name": "LSDK",
+        "id": "node/7834989695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9925009,
+          57.6464805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7835086480",
+      "properties": {
+        "club": "scuba_diving",
+        "contact:website": "https://idrottonline.se/GotaverkensSDK-Sportdykning/",
+        "name": "Götaverkens Sportdykarklubb",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "short_name": "GVSDK",
+        "id": "node/7835086480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8527473,
+          57.6689674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8014503815",
+      "properties": {
+        "addr:city": "Feldkirch",
+        "addr:country": "AT",
+        "addr:housenumber": "11c",
+        "addr:postcode": "6800",
+        "addr:street": "Magdalenastraße",
+        "club": "scuba_diving",
+        "contact:email": "info@tcv.at",
+        "name": "Tauchclub Vorarlberg Clubheim",
+        "operator": "Tauchclub Vorarlberg",
+        "source": "http://www.tcv.at/impressum/",
+        "website": "https://www.tcv.at/",
+        "id": "node/8014503815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5772678,
+          47.2568691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9153244766",
+      "properties": {
+        "barrier": "gate",
+        "id": "node/9153244766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8231656,
+          48.0094634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9309443586",
+      "properties": {
+        "addr:city": "Genova",
+        "addr:postcode": "16166",
+        "addr:street": "Via Sant'Erasmo al Mare",
+        "amenity": "dive_centre",
+        "club": "scuba_diving",
+        "email": "diving.posidonia@gmail.com",
+        "mobile": "+39 3472284066",
+        "name": "ASD POSIDONIA",
+        "official_name": "ASD POSIDONIA SUB",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:hobby": "yes",
+        "scuba_diving:rental": "yes",
+        "sport": "scuba_diving",
+        "website": "https://www.asdposidoniasub.it",
+        "id": "node/9309443586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0150962,
+          44.3844086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9473431124",
+      "properties": {
+        "addr:city": "Nouméa",
+        "addr:housenumber": "5",
+        "addr:street": "Rue du Capitaine Bois",
+        "association": "sport",
+        "club": "scuba_diving",
+        "contact:email": "contact@popclubnoumea.com",
+        "contact:facebook": "www.facebook.com/popclubnoumea",
+        "contact:phone": "+687868618",
+        "contact:website": "www.popclubnoumea.com",
+        "name": "POP Club",
+        "office": "association",
+        "opening_hours": "Tu 18:30-20:00",
+        "id": "node/9473431124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.426226,
+          -22.2704935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9562657658",
+      "properties": {
+        "addr:city": "Limhamn",
+        "addr:country": "SE",
+        "addr:housenumber": "19",
+        "addr:postcode": "216 12",
+        "addr:street": "Strandgatan",
+        "amenity": "dive_centre",
+        "club": "scuba_diving",
+        "email": "info@msdk.se",
+        "name": "Malmö Sportdykarklubb",
+        "opening_hours": "We 19:00-21:00",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:hobby": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "scuba_diving:oxygen_filling": "yes",
+        "scuba_diving:rental": "yes",
+        "scuba_diving:trimix_filling": "yes",
+        "short_name": "MSDK",
+        "website": "https://www.msdk.se/",
+        "id": "node/9562657658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9243019,
+          55.585333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10199017884",
+      "properties": {
+        "check_date": "2023-10-29",
+        "club": "scuba_diving",
+        "name": "Dykkerklubben Juggernaut",
+        "website": "https://juggernaut.dk",
+        "id": "node/10199017884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2219931,
+          56.1684629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10250540635",
+      "properties": {
+        "club": "scuba_diving",
+        "description": "École de Plongée sub-aquatique LIFRAS",
+        "name": "Octopus-Soignies asbl",
+        "sport": "scuba_diving",
+        "website": "https://www.octopus-soignies.be/",
+        "id": "node/10250540635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0656826,
+          50.5771174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10262688972",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Rhön Tauchclub e.V,",
+        "id": "node/10262688972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2045574,
+          50.7420266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11375609882",
+      "properties": {
+        "club": "scuba_diving",
+        "email": "info@subaqua-le-locle.com",
+        "name": "Subaqua Le Locle",
+        "website": "http://www.subaqua-le-locle.com/",
+        "id": "node/11375609882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7574717,
+          47.0507492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12143729530",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Tauchclub Binz e.V.",
+        "id": "node/12143729530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6230048,
+          54.3986294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12214096027",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Tauchplatz Silbersee",
+        "website": "http://www.tauchclub-hickengrund.de/",
+        "id": "node/12214096027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0434692,
+          50.7145363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12505566891",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "ASBR Plongée",
+        "website": "https://www.asbr-plongee.com/",
+        "id": "node/12505566891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5587528,
+          47.1777513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13004511909",
+      "properties": {
+        "club": "scuba_diving",
+        "email": "info@muraene.de",
+        "name": "TC Muräne Fulda 1988 e.V.",
+        "website": "https://muraene.de",
+        "id": "node/13004511909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6440402,
+          50.5518259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13039015319",
+      "properties": {
+        "addr:city": "Innsbruck",
+        "addr:country": "AT",
+        "addr:housenumber": "22",
+        "addr:postcode": "6020",
+        "addr:street": "Pacherstraße",
+        "club": "scuba_diving",
+        "email": "info@dive-team-innsbruck.at",
+        "name": "Dive Team Innsbruck - UNTER Bewusstsein e.V.",
+        "phone": "+43 660 2630470",
+        "sport": "scuba_diving",
+        "website": "https://dive-team-innsbruck.at/",
+        "id": "node/13039015319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.413009,
+          47.2609742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13098914339",
+      "properties": {
+        "club": "scuba_diving",
+        "mobile": "+34644759565",
+        "name": "mARdEhIELO",
+        "sport": "scuba_diving",
+        "website": "https://www.mardehielo.es/inicio/",
+        "id": "node/13098914339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2518244,
+          41.1092666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13155796507",
+      "properties": {
+        "barrier": "gate",
+        "locked": "yes",
+        "id": "node/13155796507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3896548,
+          50.1836728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13236560800",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "TSG Porz",
+        "id": "node/13236560800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0878205,
+          50.8644736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13256117846",
+      "properties": {
+        "addr:housenumber": "41",
+        "addr:postcode": "57128",
+        "addr:street": "Via Grotta delle fate",
+        "club": "scuba_diving",
+        "name": "Centro sub Livorno",
+        "website": "https://www.centrosublivorno.it/",
+        "id": "node/13256117846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3306018,
+          43.5192492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13311426084",
+      "properties": {
+        "amenity": "school",
+        "club": "scuba_diving",
+        "contact:email": "info@dive48rivieramaya.com",
+        "contact:instagram": "https://www.instagram.com/dive48rivieramaya",
+        "contact:phone": "+52 984 179 335",
+        "contact:website": "https://dive48rivieramaya.com/",
+        "name": "Dive48",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su,PH off",
+        "sport": "scuba_diving",
+        "id": "node/13311426084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0873575,
+          20.6262337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13416670057",
+      "properties": {
+        "amenity": "school",
+        "club": "scuba_diving",
+        "contact:email": "info@deepdivemexico.com",
+        "contact:facebook": "deepdivemexico",
+        "contact:instagram": "deepdivemexico",
+        "contact:phone": "+49 1567 831 0825",
+        "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g150812-d11697030-Reviews-DeepDiveMexico-Playa_del_Carmen_Yucatan_Peninsula.html",
+        "contact:website": "https://deepdivemexico.com/",
+        "contact:whatsapp": "+49 1567 831 0825",
+        "description": "Ocean and Cavern Diving; Courses; Small groups",
+        "description:es": "Buceo en mar y cavernas; Cursos; Grupos reducidos",
+        "name": "Deepdivemexico",
+        "operator": "Marcel Taubert",
+        "sport": "scuba_diving",
+        "id": "node/13416670057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0817995,
+          20.6349248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13464956492",
+      "properties": {
+        "amenity": "school",
+        "club": "scuba_diving",
+        "contact:email": "inspiredivingplaya@gmail.com",
+        "contact:facebook": "100087782034974",
+        "contact:instagram": "inspirediving",
+        "contact:phone": "+52 984 166 6660",
+        "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g150812-d26139398-Reviews-Inspire_Diving_Playa_Del_Carmen-Playa_del_Carmen_Yucatan_Peninsula.html",
+        "contact:website": "https://www.inspiredivingscuba.com/",
+        "contact:whatsapp": "+52 984 166 6660",
+        "description": "Private dive training, ocean / cavern / cave guiding, custom emergency response courses for divers; prioritizing safety and quality diving",
+        "description:es": "Entrenamiento privado de buceo, guías en mar, cavernas y cuevas, cursos personalizados de respuesta a emergencias para buzos; priorizando la seguridad y la calidad del buceo",
+        "name": "Inspire Diving",
+        "official_name": "Inspire Diving Playa del Carmen",
+        "opening_hours": "24/7",
+        "sport": "scuba_diving",
+        "id": "node/13464956492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0809653,
+          20.6278341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13464979578",
+      "properties": {
+        "amenity": "school",
+        "club": "scuba_diving",
+        "contact:email": "puravidadivingplayadelcarmen@gmail.com",
+        "contact:facebook": "puravidadivingplayadelcarmen",
+        "contact:instagram": "puravida_diving_playa",
+        "contact:phone": "+52 984 186 5951",
+        "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g150812-d12419545-Reviews-Pura_Vida_Diving-Playa_del_Carmen_Yucatan_Peninsula.html",
+        "contact:website": "https://puravidadivingplayadelcarmen.com/",
+        "contact:whatsapp": "+52 984 186 5951",
+        "description": "Cenote, cavern, cave, reef, bull shark, and Cozumel tours; technical diving: SSI XR sidemount / nitrox / decompression; recreational diving: discovery dives, refreshers, open water, rescue, deep, and nitrox",
+        "description:es": "Tours en cenotes, cavernas, cuevas, arrecife, tiburon toro, cozumel; buceo técnico: SSIXR sidemount / nitrox / descompresión; buceo recreativo: bautizo, refresh, open water, rescate, profundo, nitrox",
+        "name": "Pura Vida Diving",
+        "opening_hours": "Mo-Su,PH 09:00-18:00",
+        "sport": "scuba_diving",
+        "id": "node/13464979578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0764305,
+          20.6279601
+        ]
+      }
+    }
+  ]
+}
