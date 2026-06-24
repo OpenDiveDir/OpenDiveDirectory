@@ -1,0 +1,477 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/92967919",
+      "properties": {
+        "amenity": "hospital",
+        "contact:email": "sharmih@yahoo.com",
+        "contact:phone": "+20 69 366 2367",
+        "contact:website": "sharmih.webs.com",
+        "healthcare": "hyperbaric_chamber",
+        "source": "Bing",
+        "id": "way/92967919"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.3004143,
+              27.8821401
+            ],
+            [
+              34.2965602,
+              27.8827835
+            ],
+            [
+              34.2963083,
+              27.8816044
+            ],
+            [
+              34.3001624,
+              27.880961
+            ],
+            [
+              34.3004143,
+              27.8821401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/137670145",
+      "properties": {
+        "building": "yes",
+        "description:en": "Decompression chamber DECO International",
+        "description:fr": "Caisson de décompression DECO International",
+        "healthcare": "hyperbaric_chamber",
+        "hyperbaric_chamber:diameter": "2",
+        "hyperbaric_chamber:length": "4.75",
+        "hyperbaric_chamber:maxpressure": "6",
+        "hyperbaric_chamber:places": "6",
+        "hyperbaric_chamber:scuba_diving": "yes",
+        "name": "Diving Medicine Center",
+        "operator": "DECO International",
+        "phone:EG:mobile": "+20 122 174 1533;+20 122 219 0383",
+        "scuba_diving:emergency": "yes",
+        "sport": "scuba_diving",
+        "id": "way/137670145"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.9415775,
+              26.7559208
+            ],
+            [
+              33.9415694,
+              26.7558076
+            ],
+            [
+              33.941669,
+              26.7558019
+            ],
+            [
+              33.9416771,
+              26.7559151
+            ],
+            [
+              33.9415775,
+              26.7559208
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/454976417",
+      "properties": {
+        "amenity": "hospital",
+        "barrier": "fence",
+        "healthcare": "hyperbaric_chamber",
+        "hyperbaric_chamber:phone": "+2 012 219 0383",
+        "hyperbaric_chamber:website": "www.deco-international.com",
+        "name": "Port Ghalib Hospital",
+        "phone": "+20 100 000 4402",
+        "url": "https://www.facebook.com/portghalibhospital",
+        "website": "http://www.portghalibhospital.com/",
+        "id": "way/454976417"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.6160001,
+              25.5399436
+            ],
+            [
+              34.6162603,
+              25.5380269
+            ],
+            [
+              34.6172554,
+              25.538281
+            ],
+            [
+              34.6170274,
+              25.5400791
+            ],
+            [
+              34.6165929,
+              25.5400235
+            ],
+            [
+              34.6160001,
+              25.5399436
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/620707047",
+      "properties": {
+        "addr:city": "London",
+        "addr:postcode": "E11 1RG",
+        "addr:street": "Whipps Cross Road",
+        "amenity": "clinic",
+        "building": "hospital",
+        "healthcare": "clinic",
+        "healthcare:speciality": "hyperbaric_medicine",
+        "name": "London Hyperbaric Medicine",
+        "operator": "LHM Healthcare",
+        "phone": "+44 20 8539 1222",
+        "ref:GB:cqc_location": "1-105892965",
+        "website": "https://lhmhealthcare.com/lhm-london-hyperbaric-chamber/",
+        "id": "way/620707047"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0035911,
+              51.5776404
+            ],
+            [
+              0.0033218,
+              51.5774881
+            ],
+            [
+              0.0033498,
+              51.577469
+            ],
+            [
+              0.0032766,
+              51.5774276
+            ],
+            [
+              0.0033465,
+              51.5773799
+            ],
+            [
+              0.0035469,
+              51.5774928
+            ],
+            [
+              0.0035329,
+              51.5775024
+            ],
+            [
+              0.0036361,
+              51.5775606
+            ],
+            [
+              0.003626,
+              51.5775675
+            ],
+            [
+              0.0036652,
+              51.5775896
+            ],
+            [
+              0.0035911,
+              51.5776404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/705415495",
+      "properties": {
+        "addr:city": "Plymouth",
+        "addr:housename": "Hyperbaric Medical Centre",
+        "addr:postcode": "PL6 8BU",
+        "addr:street": "Research Way",
+        "building": "office",
+        "healthcare": "hyperbaric_chamber",
+        "name": "DDRC Healthcare",
+        "website": "https://www.ddrc.org/",
+        "id": "way/705415495"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.1103246,
+              50.4169754
+            ],
+            [
+              -4.1104449,
+              50.41669
+            ],
+            [
+              -4.1103438,
+              50.4166727
+            ],
+            [
+              -4.1103181,
+              50.4167
+            ],
+            [
+              -4.1100171,
+              50.4166487
+            ],
+            [
+              -4.1100273,
+              50.4166242
+            ],
+            [
+              -4.1098404,
+              50.4165923
+            ],
+            [
+              -4.109767,
+              50.4167671
+            ],
+            [
+              -4.1098064,
+              50.4167738
+            ],
+            [
+              -4.1097666,
+              50.4168685
+            ],
+            [
+              -4.1097926,
+              50.4168729
+            ],
+            [
+              -4.1098141,
+              50.4168766
+            ],
+            [
+              -4.1098096,
+              50.4168872
+            ],
+            [
+              -4.1103246,
+              50.4169754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1137822638",
+      "properties": {
+        "addr:city": "Budapest",
+        "addr:housenumber": "7",
+        "addr:postcode": "1182",
+        "addr:street": "Vak Bottyán utca",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "hyperbaric_chamber",
+        "healthcare:speciality": "hyperbaric",
+        "name": "Hiperbár Medical",
+        "operator": "Hiperbár Medical Kft",
+        "operator:type": "private",
+        "source": "microsoft/BuildingFootprints",
+        "website": "https://www.hiperbarmedical.hu",
+        "id": "way/1137822638"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.2171447,
+              47.4266567
+            ],
+            [
+              19.2169715,
+              47.426721
+            ],
+            [
+              19.2169002,
+              47.4266331
+            ],
+            [
+              19.2170734,
+              47.4265688
+            ],
+            [
+              19.2171447,
+              47.4266567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/517381609",
+      "properties": {
+        "amenity": "doctors",
+        "contact:mobile": "+2 069 364 0536",
+        "contact:phone": "+2 010 143 3325",
+        "healthcare": "hyperbaric_chamber",
+        "name": "Hyperbaric Medical Center",
+        "id": "node/517381609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4911979,
+          28.480038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4514248455",
+      "properties": {
+        "description:en": "Decompression chamber DECO International",
+        "description:fr": "Caisson de décompression DECO International",
+        "healthcare": "hyperbaric_chamber",
+        "hyperbaric_chamber:diameter": "2",
+        "hyperbaric_chamber:length": "4",
+        "hyperbaric_chamber:maxpressure": "5.5",
+        "hyperbaric_chamber:places": "10",
+        "hyperbaric_chamber:scuba_diving": "yes",
+        "name": "DECO International hyperbaric chamber",
+        "operator": "DECO International",
+        "phone:EG:mobile": "+20 122 744 5700;+20 122 219 0383",
+        "scuba_diving:emergency": "yes",
+        "sport": "scuba_diving",
+        "id": "node/4514248455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6698643,
+          27.3952768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6793786876",
+      "properties": {
+        "addr:city": "Hurghada",
+        "addr:postcode": "84511",
+        "addr:street": "Airport Road",
+        "healthcare": "hyperbaric_chamber",
+        "name": "Hypermed",
+        "website": "http://www.hypermed-redsea.com/",
+        "id": "node/6793786876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8221995,
+          27.1921929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11266823587",
+      "properties": {
+        "contact:email": "sharmchamber@gmail.com",
+        "contact:facebook": "SharmChamber",
+        "contact:mobile": "+20 1222 124 292",
+        "contact:phone": "+20 693 660 922",
+        "contact:website": "sharmchamber.org",
+        "healthcare": "hyperbaric_chamber",
+        "name": "Chamber of Diving & Watersports",
+        "opening_hours": "10:30-18:00",
+        "short_name": "CDWS",
+        "id": "node/11266823587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2818123,
+          27.8591466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11266823588",
+      "properties": {
+        "contact:mobile": "+2 01224362222",
+        "contact:phone": "+2 01222187550",
+        "contact:website": "www.baromedical-eg.com",
+        "fixme": "approximativ position (said to be \"in the back of the village\"...)",
+        "healthcare": "hyperbaric_chamber",
+        "name": "Marsa Shagra Hyberbaric Chamber",
+        "id": "node/11266823588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.791981,
+          25.2423516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13064805725",
+      "properties": {
+        "capacity": "4",
+        "description": "Hyperbaric Chamber. Model: Haux Starcome 1200",
+        "healthcare": "hyperbaric_chamber",
+        "operator": "Philippine Commission on Sports Scuba Diving",
+        "id": "node/13064805725"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.9427414,
+          10.3241503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13250726247",
+      "properties": {
+        "entrance": "main",
+        "id": "node/13250726247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1097926,
+          50.4168729
+        ]
+      }
+    }
+  ]
+}

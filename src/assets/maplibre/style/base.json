@@ -1,0 +1,225 @@
+{
+    "version": 8,
+    "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+    "sources": {
+        "coastline": {
+            "type": "geojson",
+            "data": "/assets/geodata/ne/coastline.geojson"
+        },
+        "land": {
+            "type": "geojson",
+            "data": "/assets/geodata/ne/land.geojson"
+        },
+        "ocean": {
+            "type": "geojson",
+            "data": "/assets/geodata/ne/ocean.geojson"
+        },
+        "lakes": {
+            "type": "geojson",
+            "data": "/assets/geodata/ne/lakes.geojson"
+        },
+
+        "carto-basemap": {
+            "type": "raster",
+            "tiles": [
+                "https://a.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png"
+            ],
+            "tileSize": 256
+        },
+        "maptiler_planet": {
+            "type": "vector",
+            "tiles": [
+                "https://api.maptiler.com/tiles/v3/{z}/{x}/{y}.pbf?key=b82kdfp6x3g7f3oUoCmD"
+            ],
+            "tileSize": 512
+        },
+        "basemap_ocean": {
+            "type": "raster-dem",
+            "tiles": [
+                "https://api.maptiler.com/tiles/ocean-rgb/{z}/{x}/{y}.webp?key=b82kdfp6x3g7f3oUoCmD"
+            ],
+            "tileSize": 512
+        },
+
+        "dive-centers": {
+            "type": "geojson",
+            "data": "/assets/geodata/odd/dive-centers.geojson",
+            "attribution": "© <a href='https://openstreetmap.org/copyright'>OpenStreetMap</a> | shared under the <a href='https://opendatacommons.org/licenses/odbl/1.0/'>Open Database License (ODbL)</a>."
+        },
+        "dive-clubs": {
+            "type": "geojson",
+            "data": "/assets/geodata/odd/dive-clubs.geojson"
+        },
+        "dive-sites": {
+            "type": "geojson",
+            "data": "/assets/geodata/odd/dive-sites.geojson"
+        },
+        "hyperbaric-chambers": {
+            "type": "geojson",
+            "data": "/assets/geodata/odd/hyperbaric-chambers.geojson"
+        }
+    },
+    "layers": [
+
+        {
+            "id": "carto-basemap",
+            "type": "raster",
+            "source": "carto-basemap",
+            "minzoom": 0,
+            "maxzoom": 22
+        },
+
+      {
+          "id": "Water",
+          "type": "fill",
+          "source": "maptiler_planet",
+          "source-layer": "water",
+          "layout": {
+            "visibility": "visible"
+          },
+          "paint": {
+            "fill-color": "hsl(210,45%,45%)"
+          },
+          "filter": [
+            "all",
+            [
+              "!=",
+              "intermittent",
+              1
+            ]
+          ]
+      },
+      {
+          "id": "basemap_ocean",
+          "source": "basemap_ocean",
+          "type": "hillshade",
+          "minzoom": 0,
+          "maxzoom": 7,
+          "paint": {
+              "hillshade-accent-color": "hsla(192,100%,80%,0.5)",
+              "hillshade-exaggeration": {
+                  "stops": [
+                      [
+                          6,
+                          0.65
+                      ],
+                      [
+                          16,
+                          0.45
+                      ]
+                  ]
+              },
+              "hillshade-shadow-color": {
+                  "stops": [
+                      [
+                          1,
+                          "hsla(220,54%,41%,0.3)"
+                      ],
+                      [
+                          10,
+                          "hsla(220,63%,22%,0.7)"
+                      ]
+                  ]
+              },
+              "hillshade-highlight-color": {
+                  "stops": [
+                      [
+                          1,
+                          "hsla(0,0%,100%,0.6)"
+                      ],
+                      [
+                          10,
+                          "hsla(0,0%,100%,0.4)"
+                      ]
+                  ]
+              },
+              "hillshade-illumination-direction": 250
+          }
+      },
+
+
+        {
+            "id": "dive-sites:point",
+            "source": "dive-sites",
+            "filter": [
+                "==",
+                [
+                    "geometry-type"
+                ],
+                "Point"
+            ],
+            "type": "circle",
+            "paint": {
+                "circle-opacity": 0,
+                "circle-stroke-width": 1,
+                "circle-stroke-color": "#ccc",
+                "circle-radius": 3
+            }
+        },
+
+        {
+            "id": "dive-centers:point",
+            "source": "dive-centers",
+            "filter": [
+                "==",
+                [
+                    "geometry-type"
+                ],
+                "Point"
+            ],
+            "type": "circle",
+            "paint": {
+                "circle-opacity": 0,
+                "circle-stroke-width": 1,
+                "circle-stroke-color": "#fbb",
+                "circle-radius": 3
+            }
+        },
+
+
+        {
+            "id": "dive_centers-label",
+            "source": "dive-centers",
+            "minzoom": 7,
+            "type": "symbol",
+            "layout": {
+                "text-field": ["get", "name"],
+                "text-font": ["Open Sans Regular"],
+                "text-size": [
+                    "interpolate", ["linear"], ["zoom"],
+                    7, 16,
+                    8, 24
+                ],
+                "text-justify": "auto",
+                "text-radial-offset": 0.5,
+                "text-variable-anchor": ["right", "left",  "top", "bottom"]
+            },
+            "paint": {
+                "text-color": "#E2A499"
+            }
+        },
+
+        {
+            "id": "dive_site-label",
+            "source": "dive-sites",
+            "minzoom": 7,
+            "type": "symbol",
+            "layout": {
+                "text-field": ["get", "name"],
+                "text-font": ["Open Sans Regular"],
+                "text-size": [
+                    "interpolate", ["linear"], ["zoom"],
+                    7, 20,
+                    8, 30
+                ],
+                "text-justify": "auto",
+                "text-radial-offset": 0.5,
+                "text-variable-anchor": ["left", "right", "top", "bottom"]
+            },
+            "paint": {
+                "text-color": "rgba(180, 240, 180, 1)"
+            }
+        }
+
+    ]
+}

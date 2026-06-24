@@ -1,0 +1,25 @@
+services:
+  open-dive-directory:
+    image: node:24
+    container_name: open-dive-directory
+    working_dir: /srv/odd
+    volumes:
+      - type: bind
+        source: .
+        target: /srv/odd
+
+      - type: volume
+        source: shell-home
+        target: /home/developer
+
+      - type: volume
+        source: cache
+        target: /usr/local/cache
+    ports:
+      - 8080:8080
+    command: npm run server
+
+volumes:
+  cache:
+  shell-home:
+  source-code:
